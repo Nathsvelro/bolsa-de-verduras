@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-25T05:16:40.638Z",
+  "generatedAt": "2026-09-26T05:21:36.369Z",
   "sources": {
     "sniim": {
       "id": "sniim",
@@ -8,8 +8,8 @@
       "url": "https://www.economia-sniim.gob.mx/nuevo/Consultas/MercadosNacionales/PreciosDeMercado/Agricolas/ResultadosConsultaFechaFrutasYHortalizas.aspx",
       "kind": "mayoreo",
       "cadence": "diaria",
-      "dataDate": "2026-09-24",
-      "fetchedAt": "2026-09-25T05:16:39.727Z",
+      "dataDate": "2026-09-25",
+      "fetchedAt": "2026-09-26T05:21:35.385Z",
       "status": "ok",
       "error": null
     },
@@ -101,7 +101,7 @@
         "chedraui": 17,
         "la_comer": 25.4,
         "mercado_publico": 25,
-        "central_abastos": 14.62
+        "central_abastos": 15.38
       },
       "prevPrices": {
         "walmart_express": 21,
@@ -111,13 +111,9 @@
         "chedraui": 14.5,
         "la_comer": 26.9,
         "mercado_publico": 22.5,
-        "central_abastos": 15.38
+        "central_abastos": 14.62
       },
       "history": [
-        {
-          "date": "2026-09-04",
-          "price": 18.46
-        },
         {
           "date": "2026-09-07",
           "price": 20
@@ -169,6 +165,10 @@
         {
           "date": "2026-09-24",
           "price": 14.62
+        },
+        {
+          "date": "2026-09-25",
+          "price": 15.38
         }
       ],
       "detail": {
@@ -237,11 +237,11 @@
         },
         "central_abastos": {
           "source": "sniim",
-          "date": "2026-09-24",
+          "date": "2026-09-25",
           "variety": "Tomate Saladette",
           "presentation": "Caja de 12 kg. / Caja de 13 kg. / Caja de 25 kg.",
-          "min": 8.8,
-          "max": 30,
+          "min": 8.4,
+          "max": 30.83,
           "n": 3
         }
       }
@@ -270,13 +270,9 @@
         "chedraui": 25.5,
         "la_comer": 34.9,
         "mercado_publico": 21,
-        "central_abastos": 41
+        "central_abastos": 39
       },
       "history": [
-        {
-          "date": "2026-09-04",
-          "price": 30
-        },
         {
           "date": "2026-09-07",
           "price": 32
@@ -327,6 +323,10 @@
         },
         {
           "date": "2026-09-24",
+          "price": 39
+        },
+        {
+          "date": "2026-09-25",
           "price": 39
         }
       ],
@@ -396,7 +396,7 @@
         },
         "central_abastos": {
           "source": "sniim",
-          "date": "2026-09-24",
+          "date": "2026-09-25",
           "variety": "Cebolla Bola",
           "presentation": "Arpilla de 30 kg.",
           "min": 37,
@@ -432,10 +432,6 @@
         "central_abastos": 6.67
       },
       "history": [
-        {
-          "date": "2026-09-04",
-          "price": 6.67
-        },
         {
           "date": "2026-09-07",
           "price": 7.5
@@ -486,6 +482,10 @@
         },
         {
           "date": "2026-09-24",
+          "price": 6.67
+        },
+        {
+          "date": "2026-09-25",
           "price": 6.67
         }
       ],
@@ -555,11 +555,11 @@
         },
         "central_abastos": {
           "source": "sniim",
-          "date": "2026-09-24",
+          "date": "2026-09-25",
           "variety": "Lechuga Romanita grande",
           "presentation": "Docena",
           "min": 5.83,
-          "max": 7.5,
+          "max": 8.33,
           "n": 1
         }
       }
@@ -588,13 +588,9 @@
         "chedraui": 49,
         "la_comer": 49.9,
         "mercado_publico": 45,
-        "central_abastos": 14
+        "central_abastos": 13
       },
       "history": [
-        {
-          "date": "2026-09-04",
-          "price": 17
-        },
         {
           "date": "2026-09-07",
           "price": 17
@@ -645,6 +641,10 @@
         },
         {
           "date": "2026-09-24",
+          "price": 13
+        },
+        {
+          "date": "2026-09-25",
           "price": 13
         }
       ],
@@ -714,7 +714,7 @@
         },
         "central_abastos": {
           "source": "sniim",
-          "date": "2026-09-24",
+          "date": "2026-09-25",
           "variety": "Papa Alpha",
           "presentation": "Arpilla de 50 kg.",
           "min": 11,
@@ -834,7 +834,7 @@
         "chedraui": 44.5,
         "la_comer": 49.9,
         "mercado_publico": 45,
-        "central_abastos": 14
+        "central_abastos": 12
       },
       "prevPrices": {
         "walmart_express": 59,
@@ -844,13 +844,9 @@
         "chedraui": 39.9,
         "la_comer": 39.9,
         "mercado_publico": 42.5,
-        "central_abastos": 16
+        "central_abastos": 14
       },
       "history": [
-        {
-          "date": "2026-09-04",
-          "price": 28
-        },
         {
           "date": "2026-09-07",
           "price": 26
@@ -902,6 +898,10 @@
         {
           "date": "2026-09-24",
           "price": 14
+        },
+        {
+          "date": "2026-09-25",
+          "price": 12
         }
       ],
       "detail": {
@@ -970,11 +970,11 @@
         },
         "central_abastos": {
           "source": "sniim",
-          "date": "2026-09-24",
+          "date": "2026-09-25",
           "variety": "Chile Serrano",
           "presentation": "Arpilla de 30 kg.",
-          "min": 10,
-          "max": 20,
+          "min": 9,
+          "max": 19,
           "n": 1
         }
       }
@@ -1006,10 +1006,6 @@
         "central_abastos": 20
       },
       "history": [
-        {
-          "date": "2026-09-04",
-          "price": 24
-        },
         {
           "date": "2026-09-07",
           "price": 25
@@ -1060,6 +1056,10 @@
         },
         {
           "date": "2026-09-24",
+          "price": 20
+        },
+        {
+          "date": "2026-09-25",
           "price": 20
         }
       ],
@@ -1130,7 +1130,7 @@
         },
         "central_abastos": {
           "source": "sniim",
-          "date": "2026-09-24",
+          "date": "2026-09-25",
           "variety": "Chile Jalapeño",
           "presentation": "Arpilla de 30 kg.",
           "min": 17,
@@ -1153,7 +1153,7 @@
         "chedraui": 15.5,
         "la_comer": 18.9,
         "mercado_publico": 20,
-        "central_abastos": 6.55
+        "central_abastos": 5.9350000000000005
       },
       "prevPrices": {
         "walmart_express": 18,
@@ -1166,10 +1166,6 @@
         "central_abastos": 6.55
       },
       "history": [
-        {
-          "date": "2026-09-04",
-          "price": 7.365
-        },
         {
           "date": "2026-09-07",
           "price": 6.96
@@ -1221,6 +1217,10 @@
         {
           "date": "2026-09-24",
           "price": 6.55
+        },
+        {
+          "date": "2026-09-25",
+          "price": 5.9350000000000005
         }
       ],
       "detail": {
@@ -1289,11 +1289,11 @@
         },
         "central_abastos": {
           "source": "sniim",
-          "date": "2026-09-24",
+          "date": "2026-09-25",
           "variety": "Zanahoria mediana",
           "presentation": "Arpilla de 24 kg. / Arpilla de 25 kg.",
-          "min": 5.2,
-          "max": 8.33,
+          "min": 4.8,
+          "max": 7.08,
           "n": 2
         }
       }
@@ -1312,7 +1312,7 @@
         "chedraui": 26,
         "la_comer": 36.9,
         "mercado_publico": 30,
-        "central_abastos": 4.55
+        "central_abastos": 5.45
       },
       "prevPrices": {
         "walmart_express": 24,
@@ -1322,13 +1322,9 @@
         "chedraui": 22.5,
         "la_comer": 26.9,
         "mercado_publico": 23.5,
-        "central_abastos": 5.91
+        "central_abastos": 4.55
       },
       "history": [
-        {
-          "date": "2026-09-04",
-          "price": 16.36
-        },
         {
           "date": "2026-09-07",
           "price": 15.91
@@ -1380,6 +1376,10 @@
         {
           "date": "2026-09-24",
           "price": 4.55
+        },
+        {
+          "date": "2026-09-25",
+          "price": 5.45
         }
       ],
       "detail": {
@@ -1448,11 +1448,11 @@
         },
         "central_abastos": {
           "source": "sniim",
-          "date": "2026-09-24",
+          "date": "2026-09-25",
           "variety": "Pepino",
           "presentation": "Caja de 22 kg.",
-          "min": 4.09,
-          "max": 5.45,
+          "min": 4.55,
+          "max": 6.36,
           "n": 1
         }
       }
@@ -1471,7 +1471,7 @@
         "chedraui": 32.5,
         "la_comer": 34.9,
         "mercado_publico": 25,
-        "central_abastos": 7.2
+        "central_abastos": 6
       },
       "prevPrices": {
         "walmart_express": 36.9,
@@ -1481,13 +1481,9 @@
         "chedraui": 33.45,
         "la_comer": 38.9,
         "mercado_publico": 27.5,
-        "central_abastos": 6.8
+        "central_abastos": 7.2
       },
       "history": [
-        {
-          "date": "2026-09-04",
-          "price": 7.2
-        },
         {
           "date": "2026-09-07",
           "price": 7.2
@@ -1539,6 +1535,10 @@
         {
           "date": "2026-09-24",
           "price": 7.2
+        },
+        {
+          "date": "2026-09-25",
+          "price": 6
         }
       ],
       "detail": {
@@ -1607,11 +1607,11 @@
         },
         "central_abastos": {
           "source": "sniim",
-          "date": "2026-09-24",
+          "date": "2026-09-25",
           "variety": "Calabacita Italiana",
           "presentation": "Caja de 25 kg.",
-          "min": 6.4,
-          "max": 7.6,
+          "min": 5.6,
+          "max": 6.8,
           "n": 1
         }
       }
@@ -1643,10 +1643,6 @@
         "central_abastos": 20
       },
       "history": [
-        {
-          "date": "2026-09-04",
-          "price": 14
-        },
         {
           "date": "2026-09-07",
           "price": 16
@@ -1697,6 +1693,10 @@
         },
         {
           "date": "2026-09-24",
+          "price": 20
+        },
+        {
+          "date": "2026-09-25",
           "price": 20
         }
       ],
@@ -1766,11 +1766,11 @@
         },
         "central_abastos": {
           "source": "sniim",
-          "date": "2026-09-24",
+          "date": "2026-09-25",
           "variety": "Brócoli",
           "presentation": "Kilogramo",
           "min": 18,
-          "max": 22,
+          "max": 25,
           "n": 1
         }
       }
@@ -1802,10 +1802,6 @@
         "central_abastos": 7.5
       },
       "history": [
-        {
-          "date": "2026-09-04",
-          "price": 7.5
-        },
         {
           "date": "2026-09-07",
           "price": 7.5
@@ -1856,6 +1852,10 @@
         },
         {
           "date": "2026-09-24",
+          "price": 7.5
+        },
+        {
+          "date": "2026-09-25",
           "price": 7.5
         }
       ],
@@ -1925,11 +1925,11 @@
         },
         "central_abastos": {
           "source": "sniim",
-          "date": "2026-09-24",
+          "date": "2026-09-25",
           "variety": "Elote grande",
           "presentation": "Docena",
           "min": 6.67,
-          "max": 8.33,
+          "max": 9.17,
           "n": 1
         }
       }
@@ -1948,7 +1948,7 @@
         "chedraui": 59,
         "la_comer": 98.5,
         "mercado_publico": 73,
-        "central_abastos": 36.67
+        "central_abastos": 35.56
       },
       "prevPrices": {
         "walmart_express": 64,
@@ -1958,13 +1958,9 @@
         "chedraui": 60.5,
         "la_comer": 98.5,
         "mercado_publico": 80,
-        "central_abastos": 35.56
+        "central_abastos": 36.67
       },
       "history": [
-        {
-          "date": "2026-09-04",
-          "price": 40
-        },
         {
           "date": "2026-09-07",
           "price": 38.89
@@ -2016,6 +2012,10 @@
         {
           "date": "2026-09-24",
           "price": 36.67
+        },
+        {
+          "date": "2026-09-25",
+          "price": 35.56
         }
       ],
       "detail": {
@@ -2084,10 +2084,10 @@
         },
         "central_abastos": {
           "source": "sniim",
-          "date": "2026-09-24",
+          "date": "2026-09-25",
           "variety": "Aguacate Hass",
           "presentation": "Caja de 9 kg.",
-          "min": 32.22,
+          "min": 31.11,
           "max": 37.78,
           "n": 1
         }
@@ -2107,7 +2107,7 @@
         "chedraui": 35.45,
         "la_comer": 49.9,
         "mercado_publico": 30,
-        "central_abastos": 30
+        "central_abastos": 27.37
       },
       "prevPrices": {
         "walmart_express": 40,
@@ -2117,13 +2117,9 @@
         "chedraui": 34.9,
         "la_comer": 45.9,
         "mercado_publico": 40,
-        "central_abastos": 30.53
+        "central_abastos": 30
       },
       "history": [
-        {
-          "date": "2026-09-04",
-          "price": 33.16
-        },
         {
           "date": "2026-09-07",
           "price": 35.79
@@ -2175,6 +2171,10 @@
         {
           "date": "2026-09-24",
           "price": 30
+        },
+        {
+          "date": "2026-09-25",
+          "price": 27.37
         }
       ],
       "detail": {
@@ -2243,11 +2243,11 @@
         },
         "central_abastos": {
           "source": "sniim",
-          "date": "2026-09-24",
+          "date": "2026-09-25",
           "variety": "Limón c/semilla # 3 / Limón c/semilla # 4 / Limón c/semilla # 5",
           "presentation": "Arpilla de 19 kg. / Caja de 20 kg.",
-          "min": 10,
-          "max": 35,
+          "min": 9.47,
+          "max": 30,
           "n": 3
         }
       }
@@ -2279,10 +2279,6 @@
         "central_abastos": 43.375
       },
       "history": [
-        {
-          "date": "2026-09-04",
-          "price": 42.26
-        },
         {
           "date": "2026-09-07",
           "price": 42.26
@@ -2333,6 +2329,10 @@
         },
         {
           "date": "2026-09-24",
+          "price": 43.375
+        },
+        {
+          "date": "2026-09-25",
           "price": 43.375
         }
       ],
@@ -2402,7 +2402,7 @@
         },
         "central_abastos": {
           "source": "sniim",
-          "date": "2026-09-24",
+          "date": "2026-09-25",
           "variety": "Manzana Red Delicious",
           "presentation": "Caja de 19 kg. / Caja de 17 kg.",
           "min": 31.58,
@@ -2425,7 +2425,7 @@
         "chedraui": 19,
         "la_comer": 26.9,
         "mercado_publico": 24,
-        "central_abastos": 8.33
+        "central_abastos": 8.055
       },
       "prevPrices": {
         "walmart_express": 20,
@@ -2438,10 +2438,6 @@
         "central_abastos": 8.33
       },
       "history": [
-        {
-          "date": "2026-09-04",
-          "price": 10.83
-        },
         {
           "date": "2026-09-07",
           "price": 9.445
@@ -2493,6 +2489,10 @@
         {
           "date": "2026-09-24",
           "price": 8.33
+        },
+        {
+          "date": "2026-09-25",
+          "price": 8.055
         }
       ],
       "detail": {
@@ -2561,10 +2561,10 @@
         },
         "central_abastos": {
           "source": "sniim",
-          "date": "2026-09-24",
+          "date": "2026-09-25",
           "variety": "Plátano Chiapas / Plátano Tabasco",
           "presentation": "Caja de 18 kg.",
-          "min": 6.67,
+          "min": 6.11,
           "max": 10,
           "n": 2
         }
@@ -2594,13 +2594,9 @@
         "chedraui": null,
         "la_comer": 38.9,
         "mercado_publico": 25,
-        "central_abastos": 12
+        "central_abastos": 11.5
       },
       "history": [
-        {
-          "date": "2026-09-04",
-          "price": 16.5
-        },
         {
           "date": "2026-09-07",
           "price": 16
@@ -2651,6 +2647,10 @@
         },
         {
           "date": "2026-09-24",
+          "price": 11.5
+        },
+        {
+          "date": "2026-09-25",
           "price": 11.5
         }
       ],
@@ -2715,11 +2715,11 @@
         },
         "central_abastos": {
           "source": "sniim",
-          "date": "2026-09-24",
+          "date": "2026-09-25",
           "variety": "Naranja Valencia mediana",
           "presentation": "Kilogramo",
           "min": 11,
-          "max": 12.3,
+          "max": 12,
           "n": 1
         }
       }
@@ -2751,10 +2751,6 @@
         "central_abastos": 32.14
       },
       "history": [
-        {
-          "date": "2026-09-04",
-          "price": 57.14
-        },
         {
           "date": "2026-09-07",
           "price": 57.14
@@ -2805,6 +2801,10 @@
         },
         {
           "date": "2026-09-24",
+          "price": 32.14
+        },
+        {
+          "date": "2026-09-25",
           "price": 32.14
         }
       ],
@@ -2874,7 +2874,7 @@
         },
         "central_abastos": {
           "source": "sniim",
-          "date": "2026-09-24",
+          "date": "2026-09-25",
           "variety": "Mango Ataulfo",
           "presentation": "Caja de 28 kg.",
           "min": 28.57,
@@ -2897,7 +2897,7 @@
         "chedraui": 131.9383259911894,
         "la_comer": 175.99118942731278,
         "mercado_publico": 154.1850220264317,
-        "central_abastos": 28.75
+        "central_abastos": 27.5
       },
       "prevPrices": {
         "walmart_express": 171.80616740088104,
@@ -2907,13 +2907,9 @@
         "chedraui": 151.98237885462552,
         "la_comer": 153.9647577092511,
         "mercado_publico": 176.21145374449338,
-        "central_abastos": 31.25
+        "central_abastos": 28.75
       },
       "history": [
-        {
-          "date": "2026-09-04",
-          "price": 48.75
-        },
         {
           "date": "2026-09-07",
           "price": 47.5
@@ -2965,6 +2961,10 @@
         {
           "date": "2026-09-24",
           "price": 28.75
+        },
+        {
+          "date": "2026-09-25",
+          "price": 27.5
         }
       ],
       "detail": {
@@ -3033,11 +3033,11 @@
         },
         "central_abastos": {
           "source": "sniim",
-          "date": "2026-09-24",
+          "date": "2026-09-25",
           "variety": "Fresa",
           "presentation": "Caja de 8 kg.",
           "min": 25,
-          "max": 32.5,
+          "max": 31.25,
           "n": 1
         }
       }
@@ -3069,10 +3069,6 @@
         "central_abastos": 75
       },
       "history": [
-        {
-          "date": "2026-09-04",
-          "price": 75
-        },
         {
           "date": "2026-09-07",
           "price": 75
@@ -3123,6 +3119,10 @@
         },
         {
           "date": "2026-09-24",
+          "price": 75
+        },
+        {
+          "date": "2026-09-25",
           "price": 75
         }
       ],
@@ -3182,7 +3182,7 @@
         },
         "central_abastos": {
           "source": "sniim",
-          "date": "2026-09-24",
+          "date": "2026-09-25",
           "variety": "Uva sin semilla",
           "presentation": "Caja de 8 kg.",
           "min": 68.75,
