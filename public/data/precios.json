@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-03T05:39:11.296Z",
+  "generatedAt": "2026-10-05T14:09:54.295Z",
   "sources": {
     "sniim": {
       "id": "sniim",
@@ -9,7 +9,7 @@
       "kind": "mayoreo",
       "cadence": "diaria",
       "dataDate": "2026-10-02",
-      "fetchedAt": "2026-10-03T05:39:10.366Z",
+      "fetchedAt": "2026-10-05T14:09:35.455Z",
       "status": "ok",
       "error": null
     },
@@ -23,7 +23,7 @@
       "previousPeriod": "07-2026_Q1",
       "dataDate": "2026-07-31",
       "dataDateFrom": "2026-07-16",
-      "fetchedAt": "2026-09-28T13:26:46.893Z",
+      "fetchedAt": "2026-10-05T14:09:53.280Z",
       "status": "ok",
       "error": null
     }
