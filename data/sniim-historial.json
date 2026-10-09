@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T06:33:11.123Z",
+  "updatedAt": "2026-10-09T06:34:25.626Z",
   "products": {
     "jitomate": {
       "series": [
@@ -362,6 +362,21 @@
           "varieties": [
             "Tomate Saladette"
           ]
+        },
+        {
+          "date": "2026-10-08",
+          "price": 17.69,
+          "min": 15.38,
+          "max": 34.17,
+          "n": 3,
+          "presentations": [
+            "Caja de 12 kg.",
+            "Caja de 13 kg.",
+            "Caja de 25 kg."
+          ],
+          "varieties": [
+            "Tomate Saladette"
+          ]
         }
       ]
     },
@@ -671,6 +686,19 @@
           "price": 34,
           "min": 32,
           "max": 48,
+          "n": 1,
+          "presentations": [
+            "Arpilla de 30 kg."
+          ],
+          "varieties": [
+            "Cebolla Bola"
+          ]
+        },
+        {
+          "date": "2026-10-08",
+          "price": 35,
+          "min": 32,
+          "max": 50,
           "n": 1,
           "presentations": [
             "Arpilla de 30 kg."
@@ -994,6 +1022,19 @@
           "varieties": [
             "Lechuga Romanita grande"
           ]
+        },
+        {
+          "date": "2026-10-08",
+          "price": 7.5,
+          "min": 6.67,
+          "max": 8.33,
+          "n": 1,
+          "presentations": [
+            "Docena"
+          ],
+          "varieties": [
+            "Lechuga Romanita grande"
+          ]
         }
       ]
     },
@@ -1300,6 +1341,19 @@
         },
         {
           "date": "2026-10-07",
+          "price": 14,
+          "min": 12,
+          "max": 16,
+          "n": 1,
+          "presentations": [
+            "Arpilla de 50 kg."
+          ],
+          "varieties": [
+            "Papa Alpha"
+          ]
+        },
+        {
+          "date": "2026-10-08",
           "price": 14,
           "min": 12,
           "max": 16,
@@ -1626,6 +1680,19 @@
           "varieties": [
             "Chile Serrano"
           ]
+        },
+        {
+          "date": "2026-10-08",
+          "price": 20,
+          "min": 15,
+          "max": 27,
+          "n": 1,
+          "presentations": [
+            "Arpilla de 30 kg."
+          ],
+          "varieties": [
+            "Chile Serrano"
+          ]
         }
       ]
     },
@@ -1933,6 +2000,19 @@
         {
           "date": "2026-10-07",
           "price": 23,
+          "min": 18,
+          "max": 29,
+          "n": 1,
+          "presentations": [
+            "Arpilla de 30 kg."
+          ],
+          "varieties": [
+            "Chile Jalapeño"
+          ]
+        },
+        {
+          "date": "2026-10-08",
+          "price": 22,
           "min": 18,
           "max": 29,
           "n": 1,
@@ -2282,6 +2362,20 @@
           "varieties": [
             "Zanahoria mediana"
           ]
+        },
+        {
+          "date": "2026-10-08",
+          "price": 6.55,
+          "min": 5.2,
+          "max": 7.92,
+          "n": 2,
+          "presentations": [
+            "Arpilla de 24 kg.",
+            "Arpilla de 25 kg."
+          ],
+          "varieties": [
+            "Zanahoria mediana"
+          ]
         }
       ]
     },
@@ -2591,6 +2685,19 @@
           "price": 8.18,
           "min": 7.73,
           "max": 9.09,
+          "n": 1,
+          "presentations": [
+            "Caja de 22 kg."
+          ],
+          "varieties": [
+            "Pepino"
+          ]
+        },
+        {
+          "date": "2026-10-08",
+          "price": 8.18,
+          "min": 7.73,
+          "max": 9.55,
           "n": 1,
           "presentations": [
             "Caja de 22 kg."
@@ -2914,6 +3021,19 @@
           "varieties": [
             "Calabacita Italiana"
           ]
+        },
+        {
+          "date": "2026-10-08",
+          "price": 14,
+          "min": 12.8,
+          "max": 15.2,
+          "n": 1,
+          "presentations": [
+            "Caja de 25 kg."
+          ],
+          "varieties": [
+            "Calabacita Italiana"
+          ]
         }
       ]
     },
@@ -3223,6 +3343,19 @@
           "price": 18,
           "min": 15,
           "max": 20,
+          "n": 1,
+          "presentations": [
+            "Kilogramo"
+          ],
+          "varieties": [
+            "Brócoli"
+          ]
+        },
+        {
+          "date": "2026-10-08",
+          "price": 16,
+          "min": 14,
+          "max": 18,
           "n": 1,
           "presentations": [
             "Kilogramo"
@@ -3546,6 +3679,19 @@
           "varieties": [
             "Elote grande"
           ]
+        },
+        {
+          "date": "2026-10-08",
+          "price": 7.5,
+          "min": 6.67,
+          "max": 8.33,
+          "n": 1,
+          "presentations": [
+            "Docena"
+          ],
+          "varieties": [
+            "Elote grande"
+          ]
         }
       ]
     },
@@ -3852,6 +3998,19 @@
         },
         {
           "date": "2026-10-07",
+          "price": 36.67,
+          "min": 32.22,
+          "max": 37.78,
+          "n": 1,
+          "presentations": [
+            "Caja de 9 kg."
+          ],
+          "varieties": [
+            "Aguacate Hass"
+          ]
+        },
+        {
+          "date": "2026-10-08",
           "price": 36.67,
           "min": 32.22,
           "max": 37.78,
@@ -4250,6 +4409,22 @@
             "Limón c/semilla # 4",
             "Limón c/semilla # 5"
           ]
+        },
+        {
+          "date": "2026-10-08",
+          "price": 13.16,
+          "min": 6.32,
+          "max": 18,
+          "n": 3,
+          "presentations": [
+            "Arpilla de 19 kg.",
+            "Caja de 20 kg."
+          ],
+          "varieties": [
+            "Limón c/semilla # 3",
+            "Limón c/semilla # 4",
+            "Limón c/semilla # 5"
+          ]
         }
       ]
     },
@@ -4579,6 +4754,20 @@
         },
         {
           "date": "2026-10-07",
+          "price": 43.935,
+          "min": 31.58,
+          "max": 57.06,
+          "n": 2,
+          "presentations": [
+            "Caja de 19 kg.",
+            "Caja de 17 kg."
+          ],
+          "varieties": [
+            "Manzana Red Delicious"
+          ]
+        },
+        {
+          "date": "2026-10-08",
           "price": 43.935,
           "min": 31.58,
           "max": 57.06,
@@ -4930,6 +5119,20 @@
             "Plátano Chiapas",
             "Plátano Tabasco"
           ]
+        },
+        {
+          "date": "2026-10-08",
+          "price": 6.945,
+          "min": 5.56,
+          "max": 8.33,
+          "n": 2,
+          "presentations": [
+            "Caja de 18 kg."
+          ],
+          "varieties": [
+            "Plátano Chiapas",
+            "Plátano Tabasco"
+          ]
         }
       ]
     },
@@ -5239,6 +5442,19 @@
           "price": 11.5,
           "min": 11,
           "max": 12,
+          "n": 1,
+          "presentations": [
+            "Kilogramo"
+          ],
+          "varieties": [
+            "Naranja Valencia mediana"
+          ]
+        },
+        {
+          "date": "2026-10-08",
+          "price": 12,
+          "min": 11.5,
+          "max": 12.5,
           "n": 1,
           "presentations": [
             "Kilogramo"
@@ -5562,6 +5778,19 @@
           "varieties": [
             "Mango Ataulfo"
           ]
+        },
+        {
+          "date": "2026-10-08",
+          "price": 28.57,
+          "min": 25,
+          "max": 30.36,
+          "n": 1,
+          "presentations": [
+            "Caja de 28 kg."
+          ],
+          "varieties": [
+            "Mango Ataulfo"
+          ]
         }
       ]
     },
@@ -5878,6 +6107,19 @@
           "varieties": [
             "Fresa"
           ]
+        },
+        {
+          "date": "2026-10-08",
+          "price": 23.75,
+          "min": 21.25,
+          "max": 26.25,
+          "n": 1,
+          "presentations": [
+            "Caja de 8 kg."
+          ],
+          "varieties": [
+            "Fresa"
+          ]
         }
       ]
     },
@@ -6184,6 +6426,19 @@
         },
         {
           "date": "2026-10-07",
+          "price": 81.25,
+          "min": 68.75,
+          "max": 93.75,
+          "n": 1,
+          "presentations": [
+            "Caja de 8 kg."
+          ],
+          "varieties": [
+            "Uva sin semilla"
+          ]
+        },
+        {
+          "date": "2026-10-08",
           "price": 81.25,
           "min": 68.75,
           "max": 93.75,
