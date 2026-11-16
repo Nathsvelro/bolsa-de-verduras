@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-14T06:55:53.464Z",
+  "updatedAt": "2026-11-16T15:21:15.067Z",
   "source": {
     "name": "Google Noticias",
     "url": "https://news.google.com/rss/search?q=M%C3%A9xico+%28frutas+OR+verduras+OR+hortalizas+OR+jitomate+OR+lim%C3%B3n+OR+aguacate%29+%28precios+OR+cosecha+OR+sequ%C3%ADa+OR+lluvias+OR+bloqueos+OR+aranceles+OR+exportaciones%29+when%3A45d&hl=es-419&gl=MX&ceid=MX%3Aes-419",
@@ -13,6 +13,36 @@
     ]
   },
   "articles": [
+    {
+      "id": "2e12f61f98647f5ebc9d",
+      "title": "La cebolla se encarece 82% en México y eleva el costo de la canasta alimentaria",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ0lsVE9VTXNhbC1vLVB2Xzk4SXRGdEpWNVZocTJ2eEpFOFItNTRSZm9pRlZVdVRNbnIySXFKLWpQUUJjY09MRXFXOEYxZm5aQ19sN3ptRWNlSXhPZlRBOUQ0Yml2cTlZQUg4V1JKSXFDbXFvTEk5c2NVcFVDdWZKSm9zcnVobnJmdmZqbDJUZlZVY1VvdDB1NjQ0V3lKaWpxS2VtQ1JVVzM2UQ?oc=5",
+      "source": {
+        "name": "EL CEO",
+        "url": "https://elceo.com/"
+      },
+      "publishedAt": "2026-11-15T16:14:17.000Z",
+      "category": "mercado",
+      "productIds": [
+        "cebolla"
+      ],
+      "context": "Si cambian la demanda, el comercio o los costos de venta, pueden cambiar los precios al consumidor."
+    },
+    {
+      "id": "949a6489b164a8b73257",
+      "title": "La fresa de Huelva sitúa a España como primer exportador mundial, según la Junta de Andalucía",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQnlNTFl0R0NMdzZmZ0Itdm1STndHNkR6TmxydWVyeThiQVdONHNFcjBDb2JIaVB4Z3ZlU09RRmlRbHktQk54NzRjTHRrZGdqa3dqaUlNY3BZRGFSTUNzS3ZXQW01bVA5Nm1aaFkwRTBRYXBWaTZodklZX1pnUzlhR0M0TklyMUdwNWVoMUdzZmNuRWZDOGp1anB5RnNtSVZXUXFFVVVoN1lzSEoyMWo0aU9TVm5fSWtfT21RUmJib2ttR21wS0VQSHZRbm5JNzBrb3Qxb01PU1E4SUU?oc=5",
+      "source": {
+        "name": "PressDigital",
+        "url": "https://www.pressdigital.es/"
+      },
+      "publishedAt": "2026-11-15T11:43:00.000Z",
+      "category": "mercado",
+      "productIds": [
+        "fresa"
+      ],
+      "context": "Si cambian la demanda, el comercio o los costos de venta, pueden cambiar los precios al consumidor."
+    },
     {
       "id": "088e569a0cd1dd694732",
       "title": "Lo mejor de Aristegui en Vivo: Papa va contra el machismo; Trump amenaza con más aranceles; Morena dice que Taddei es del PAN (13/11/2026)",
@@ -44,19 +74,19 @@
       "context": "Si cambia el volumen de cosecha o el costo de producir, puede variar la oferta y el precio."
     },
     {
-      "id": "0567da2cec95f5fef44d",
-      "title": "México afronta su temporada fuerte de aguacate con un volumen mayor",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON3BaQlM1MnBMMVZYS0YtSlF1azU4MWFncnRhcVNQLUJNSWd4T19UZGtscnhWeVh1R1VFNk53dkVnX3lLWlQ1eFdwYjh0ajZaRzFnWkZIckhXNV9KUENya09KSW92SS00WWNpdjBQQWtTdHFuNkw4b0xHWmZpNTVOdjVhei1SZEpuek5Mbnl6eWZtUmJLS3JBazk4NDhOX0h4MVlhNm1kRVpXelRBYVUxR0NqLXczelk?oc=5",
+      "id": "fd7240c193acb1585966",
+      "title": "Estados Unidos concentró el 87 por ciento de las exportaciones del aguacate mexicano, pero la presión de la California Avocado Commission para fijar un cupo arancelario estacional amenaza con restringir severamente el ingreso de la fruta durante los mes",
+      "url": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxQY2VMQ1FpNGh0OTVGMzBJeDJLc0VYdGZMakxJTHZMVmdpV01HbmJhYVBMUE9GSFB0OEJPRGRBS0JMemdQWkpZMWdGMlFrczcwcllxNS0tZDk3bmZXQ3JwR1FqSGFMTmlFNUFMZmpHZFNrWHpOQ3pabnMwcWJYZmNjVHktdV91ak5sVlp5MHV2bGFYenJvbkh5RkphbTR4MEdVM0t5OFN6MEtyQUd5UVBPSFNCRVoza3AwNVZWWFNpTk9QU1dMU2o2akREcTM4OHIzaG5ETm1SQUVRUENSOTU1dVRyU1FSUWdPMVM1VTFtdHlaeGdpcC1ZUkFLNXZnOGlZdXlzeWNVRnlqZDJSdFFaRVhkbHg4V2tkQTJWU1djdlNxZHRobkg5OHRZUWNPa2gyY0dQOFNCajB4aWxoSE5tM2dub1RuRjNkSkJVdTZ3UFp2TjdBdUJ4SmlaNG1EOGhiUkNDQ19yc2tnSWRiMkEwVzk5bFViQnk4ZVBqUkR2ZWVVaGdGSF9jRlE1WFhDczljMl9QYkR2bjZqUGhKZDNTTVJwLXpNRlZhdWxRaklRNWNUS2ZObTByREJ2VDVJanU1dHhTbTgtNm90TzB5cG9zeDVEWGUzQkMyUGpyZURIMng2TEVIeTEtTnFaQnBXbHFpTXfSAYwEQVVfeXFMTURfN0Z3U016MWlNcmYzektLY3B1blJteDVCdktfSTBIS0VhQ0pLcm9oMTBfc2RWN0VhbjRZcUdyVjhJMjhaYWZZLWNVeG5ZUk02Z21VZEV3WUdMYVlpTTNCOFppeS0xdlc4SmdBVnFadnNiVG1DWWIzWWZlWkdDYmIwWWxDY19PMVFoaGI5QllmR2FHQzRRVkFOODRmM3FMT0ZNc0ZCdW9abUlsWTF1X0xZNXFzM0ZRdHpjeE9WWUxjY2daeVFiUnhldnBmMjhEZlVKSVR1dHh0OFR5czYzOFNHY0hUSkJZVHZndFowYkZnM2NfTzlmZjRBNnlDSlhLU3hOdThzWHlYbm13emc5WTVtOXU0cEJRM1NnWTdMUjNUMlRacWtUSVBPbzZrbF9XRUp1MlVGekxxMzRGTkZrZjhheGJqaHVMaGtNYy1jSFUtbnZVQjdEbFNZVXRFNE9KWjMzQ1FNQlVHa1dMSWtva1d4clZZZk11dDBNTnUtdHV4QlN4NTNaNGl5ZEdkMmRyRHFmRVZ2R0FiaDdreDEyNEFJNTJHejdfU1dRaVN6NF9MamowOWNoa3FnVUxKV2NfdVN4Z3luMEEyVWRlX1F4LTVUdDcyMTlQUE9tNGhMdWhhWWpLV3RvVGtXZzNiRkRzWlp6dFNsb3EwTFRUbnBWQ0dmRnhaZ2hPa0V3Skk?oc=5",
       "source": {
-        "name": "FreshPlaza",
-        "url": "https://www.freshplaza.es/"
+        "name": "El Imparcial",
+        "url": "https://www.elimparcial.com/"
       },
-      "publishedAt": "2026-11-13T13:41:00.000Z",
-      "category": "produccion",
+      "publishedAt": "2026-11-13T06:26:46.000Z",
+      "category": "mercado",
       "productIds": [
         "aguacate"
       ],
-      "context": "Si cambia el volumen de cosecha o el costo de producir, puede variar la oferta y el precio."
+      "context": "Si cambian la demanda, el comercio o los costos de venta, pueden cambiar los precios al consumidor."
     },
     {
       "id": "9a94fb467bbdf80348cb",
@@ -70,37 +100,6 @@
       "category": "mercado",
       "productIds": [
         "jitomate"
-      ],
-      "context": "Si cambian la demanda, el comercio o los costos de venta, pueden cambiar los precios al consumidor."
-    },
-    {
-      "id": "3349424a6a6c58178449",
-      "title": "Cebolla sube 82% y jitomate 44%; se encarece preparar la comida en México",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZExoRzRuSWlfRFVqbGRKalo0ZFpEOXBKT3hHUFBxOEtiaURRaDVla3Fic2ZfT1hoUFBLcktLam10bGNqRmUwN1lpTXZpLXZYdHk5RC16VmUxR3N6OXZJRVJkaEdIS1NZSV9KUTZEVC1la2hKXzV4NVBhTVVjV21rS21OeUhzOWlTemtqN3ZUNmJBdXFGdjMyTmNBT0UwLVZmcldF?oc=5",
-      "source": {
-        "name": "El Buen Tono",
-        "url": "https://www.elbuentono.com.mx/"
-      },
-      "publishedAt": "2026-11-12T16:13:32.000Z",
-      "category": "mercado",
-      "productIds": [
-        "jitomate",
-        "cebolla"
-      ],
-      "context": "Si cambian la demanda, el comercio o los costos de venta, pueden cambiar los precios al consumidor."
-    },
-    {
-      "id": "ede332e548c4d38615a7",
-      "title": "Tomatillo, calabacita y vuelos, con el mayor incremento de precios",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcTh1VXk3NjhmZGdGdXFqb1RiaUZIQ1pKTldkdHNXZ2R5V2l2emNxek1xVDFoVkEwZVBXc3VLaDJTYmllaVp5aEd6SWxOMS1yUzZuSzZFTFEzS0o3VnpaRi1DQlJUd0R0TWJMNkt1Ym00SjBmSWxZaWQtSTViOXlfVzd0S1VpY0NpQ3RXaGtNQWtUUnAzT1ZPejQwWXBtVGJwM0lDNFg1YldvSEF3bV9LbUpOU25HcXBnenJGaUE1c1gwdHZMc1o2SdIBzgFBVV95cUxNY210S0ExSDl6VENjRl83dy1JaVZlNEl6SFNkU3FUcDhwa2ttMEJvRUJtVGZCWDBfREV3a21mbGhMUkN1dTkzYm5KSVV3anZ0RUdLTnRLWW9GTEluWVdZa0xFYmVDYzJRNlFXdG1TRGtNck9GS1Z0SUFFZVJ0TlVZblB5eEI3YzNUcEpTUkw3VDNCR3JyZ3Z0VHZmX2FZRUotQ1pKbVc2UmpfRmxmWkJOQnhKWHdseXhXalRlLXJGYUJPa01wWmh5TlFhb0Q1dw?oc=5",
-      "source": {
-        "name": "El Diario de Chihuahua",
-        "url": "https://www.eldiariodechihuahua.mx/"
-      },
-      "publishedAt": "2026-11-12T02:30:00.000Z",
-      "category": "mercado",
-      "productIds": [
-        "calabacita"
       ],
       "context": "Si cambian la demanda, el comercio o los costos de venta, pueden cambiar los precios al consumidor."
     },
@@ -152,65 +151,19 @@
       "context": "Si cambian la demanda, el comercio o los costos de venta, pueden cambiar los precios al consumidor."
     },
     {
-      "id": "6b710a5da3272490c309",
-      "title": "Cebolla dispara el costo de comer en México: sube 82.2% en un año; jitomate, 43.9%; esto cuesta el kilo",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd2QtdEZnZTBmLW9NQmlTTkpGM2pzUDJWWFZPNzVlbGVScmxnWGN5ckFRM0kwdjhiQ0QzMzR2U3JMM2hTN1hUVlpDU2pBMkx0OVJUNzR4ZTBrOXZVZWsxUVFITkRILWZkTVltRGh5czF0dTVtbEFRcVpEdUJ3cDhGVzdTN21JUHduOFp6c2d3UVlZbXJhRmc?oc=5",
+      "id": "e584a5cd01ca78920139",
+      "title": "La temporada de aguacate ecológico español comienza mientras queda todavía oferta mexicana",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNU3VUQTdfeVZLM0NpQTh6dVprTWNxTjNNcUVMM1ZxNl9QRVlFTzRZV2FTbG56aGl2LWhaXzBkVUdLQ2czQ25GTUlyaDk0YTlERC1iZVlkbW9jTDlqaUVGR19JbDU2ZkF2ZWRFTEpaMmlxcm42UmFrRnZtNXZENzctU2c2NUZxU3VNTGNKNlktNVhiZEJCdzlRRDZIT3J6c0l6M2YyY0dCMndEUklnVFo2UWQ4MEtwd0ctRFhNMlVyYmFlLUNGQU9xZDgtSUYySkxJMEhNMktn?oc=5",
       "source": {
-        "name": "UnoTV",
-        "url": "https://www.unotv.com/"
+        "name": "FreshPlaza",
+        "url": "https://www.freshplaza.es/"
       },
-      "publishedAt": "2026-11-11T16:58:13.000Z",
-      "category": "mercado",
-      "productIds": [
-        "jitomate",
-        "cebolla"
-      ],
-      "context": "Si cambian la demanda, el comercio o los costos de venta, pueden cambiar los precios al consumidor."
-    },
-    {
-      "id": "fd7240c193acb1585966",
-      "title": "Estados Unidos concentró el 87 por ciento de las exportaciones del aguacate mexicano, pero la presión de la California Avocado Commission para fijar un cupo arancelario estacional amenaza con restringir severamente el ingreso de la fruta durante los mes",
-      "url": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxQY2VMQ1FpNGh0OTVGMzBJeDJLc0VYdGZMakxJTHZMVmdpV01HbmJhYVBMUE9GSFB0OEJPRGRBS0JMemdQWkpZMWdGMlFrczcwcllxNS0tZDk3bmZXQ3JwR1FqSGFMTmlFNUFMZmpHZFNrWHpOQ3pabnMwcWJYZmNjVHktdV91ak5sVlp5MHV2bGFYenJvbkh5RkphbTR4MEdVM0t5OFN6MEtyQUd5UVBPSFNCRVoza3AwNVZWWFNpTk9QU1dMU2o2akREcTM4OHIzaG5ETm1SQUVRUENSOTU1dVRyU1FSUWdPMVM1VTFtdHlaeGdpcC1ZUkFLNXZnOGlZdXlzeWNVRnlqZDJSdFFaRVhkbHg4V2tkQTJWU1djdlNxZHRobkg5OHRZUWNPa2gyY0dQOFNCajB4aWxoSE5tM2dub1RuRjNkSkJVdTZ3UFp2TjdBdUJ4SmlaNG1EOGhiUkNDQ19yc2tnSWRiMkEwVzk5bFViQnk4ZVBqUkR2ZWVVaGdGSF9jRlE1WFhDczljMl9QYkR2bjZqUGhKZDNTTVJwLXpNRlZhdWxRaklRNWNUS2ZObTByREJ2VDVJanU1dHhTbTgtNm90TzB5cG9zeDVEWGUzQkMyUGpyZURIMng2TEVIeTEtTnFaQnBXbHFpTXfSAYwEQVVfeXFMTURfN0Z3U016MWlNcmYzektLY3B1blJteDVCdktfSTBIS0VhQ0pLcm9oMTBfc2RWN0VhbjRZcUdyVjhJMjhaYWZZLWNVeG5ZUk02Z21VZEV3WUdMYVlpTTNCOFppeS0xdlc4SmdBVnFadnNiVG1DWWIzWWZlWkdDYmIwWWxDY19PMVFoaGI5QllmR2FHQzRRVkFOODRmM3FMT0ZNc0ZCdW9abUlsWTF1X0xZNXFzM0ZRdHpjeE9WWUxjY2daeVFiUnhldnBmMjhEZlVKSVR1dHh0OFR5czYzOFNHY0hUSkJZVHZndFowYkZnM2NfTzlmZjRBNnlDSlhLU3hOdThzWHlYbm13emc5WTVtOXU0cEJRM1NnWTdMUjNUMlRacWtUSVBPbzZrbF9XRUp1MlVGekxxMzRGTkZrZjhheGJqaHVMaGtNYy1jSFUtbnZVQjdEbFNZVXRFNE9KWjMzQ1FNQlVHa1dMSWtva1d4clZZZk11dDBNTnUtdHV4QlN4NTNaNGl5ZEdkMmRyRHFmRVZ2R0FiaDdreDEyNEFJNTJHejdfU1dRaVN6NF9MamowOWNoa3FnVUxKV2NfdVN4Z3luMEEyVWRlX1F4LTVUdDcyMTlQUE9tNGhMdWhhWWpLV3RvVGtXZzNiRkRzWlp6dFNsb3EwTFRUbnBWQ0dmRnhaZ2hPa0V3Skk?oc=5",
-      "source": {
-        "name": "El Imparcial",
-        "url": "https://www.elimparcial.com/"
-      },
-      "publishedAt": "2026-11-11T15:13:28.000Z",
-      "category": "mercado",
+      "publishedAt": "2026-11-11T14:51:00.000Z",
+      "category": "produccion",
       "productIds": [
         "aguacate"
       ],
-      "context": "Si cambian la demanda, el comercio o los costos de venta, pueden cambiar los precios al consumidor."
-    },
-    {
-      "id": "5ac33f20021ea54168a2",
-      "title": "México exportará 22% más aguacate, pero los productores reciben casi 29% menos",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPS2ZabTV2NXhydUpvc1lKeG4zdEN4YmZuTXVKc2hTNGlNSldMUG5GdTRxSkJkY3JETlVOWjhLeWZoZzBKampUZVFtNmtnWUxsbEpmRHFuVklRaGJvaE4xTWZrUEFaczZMZ0lGX1N2ZnVqNG9UZjFneDB0NDU5ZzFpdk93VndBTVg1UnZKcndhNzhXV09pTnhSSC1SZ0RfdUd2bHI2emE5MnNyRFRDc3JadFdqY1VmTzc5VzFLTDl0THF1RDA3RWtF?oc=5",
-      "source": {
-        "name": "AgroLatam",
-        "url": "https://www.agrolatam.com/"
-      },
-      "publishedAt": "2026-11-10T20:57:00.000Z",
-      "category": "mercado",
-      "productIds": [
-        "aguacate"
-      ],
-      "context": "Si cambian la demanda, el comercio o los costos de venta, pueden cambiar los precios al consumidor."
-    },
-    {
-      "id": "741e1d9bae2599e73666",
-      "title": "¿Subió el precio del jitomate? Estos alimentos aumentaron y otros bajaron en México, según el INPC de noviembr",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZWxPUXpoNlZ0b3FzNjJCNnJTVGhId3M3LUZKYW1SenI3cWRMUWZVRzVhbDE4MTgyT2ZYZUl3M3RRUng4YmppT0FFeVpfVUpsS2FjaExFR1RVeGFPY1NzQnBXMF8yMkZZSVloRHFZUHJHTWFQWTVvV1MxMDdzLUxJbWVKRnlIdW9NTGpYS1AwWG5TRG5hdWxiUzB5YWxKTWhGSkxF0gGjAUFVX3lxTE1nWWVfUXM0bnhCOGNvWGgxTTFkeGdtc0Nxb0dyd2o3UEQ2cU1Ebm14Z0Y3Z0lUMjJUVkxfTUN4V3hTeDV0X0RxUHprSjgtNzBSQU9tSWt0RDA3b3FSeEl2QVVVbTNIa0tEbUg0dUFDZnVybmJsdmswLUhKLWF1NnVucTZScUk0RU14ZjVKUUh0VFVvY3lycXFPR2t0bFZDTVFSY00?oc=5",
-      "source": {
-        "name": "Milenio",
-        "url": "https://www.milenio.com/"
-      },
-      "publishedAt": "2026-11-10T20:57:00.000Z",
-      "category": "mercado",
-      "productIds": [
-        "jitomate"
-      ],
-      "context": "Si cambian la demanda, el comercio o los costos de venta, pueden cambiar los precios al consumidor."
+      "context": "Si cambia el volumen de cosecha o el costo de producir, puede variar la oferta y el precio."
     },
     {
       "id": "206ef8974287a0cbef6f",
@@ -220,42 +173,12 @@
         "name": "El Sol de México",
         "url": "https://oem.com.mx/"
       },
-      "publishedAt": "2026-11-10T20:20:37.000Z",
+      "publishedAt": "2026-11-10T20:12:08.000Z",
       "category": "mercado",
       "productIds": [
         "fresa"
       ],
       "context": "Si cambian la demanda, el comercio o los costos de venta, pueden cambiar los precios al consumidor."
-    },
-    {
-      "id": "4bfe5d159c3f94f7f261",
-      "title": "¡Quieren frenar al aguacate mexicano! Productores de California piden limitar importaciones",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVGYteWFFTXBXSjMwTnJGT0otUWNyMjk0TVdUVVk1UDJpclBpU3ZvcHBVMWFNZThWbjJIV2plRWZSNmJHMHdaMThuMmRMUnNLOWNFRTdQUHBLbTdiMXR0OFZaMk5tOUNBNlJRZWFfeWFCNUc2MXlZOERZSEpKRmhyYVZqdkdZSXNpbkFkVkFrNllIX0psQVlseHpobkFFRWUzSnRZNmwzOU5yTi1vM1Fmd05uZ2N0UQ?oc=5",
-      "source": {
-        "name": "Viva la Noticia",
-        "url": "https://vivalanoticia.mx/"
-      },
-      "publishedAt": "2026-11-10T19:17:26.000Z",
-      "category": "mercado",
-      "productIds": [
-        "aguacate"
-      ],
-      "context": "Si cambian la demanda, el comercio o los costos de venta, pueden cambiar los precios al consumidor."
-    },
-    {
-      "id": "705ee0d2ba12db8c1113",
-      "title": "Productores de California solicitan veto al aguacate mexicano en el T-MEC para evitar pérdidas.",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYldGNTNpRzdoTXhvNmQ5d0tXcllXWkN5YWdNaF82eU1hMTdncVhkYjVSdUJJel9hVkRoQWQ4NVFNQ2I3bGlDcW1hTGFiVGRhU0FPRnJqZ3o2azdHeFpycVdsdXpHTXZGaVpQVV94cFVFRFpjNlpHS21pQ1pEYTFDaDhPTmMzU29sY1FRRE91bHdtMWZjU0E?oc=5",
-      "source": {
-        "name": "El Congresista",
-        "url": "https://elcongresista.mx/"
-      },
-      "publishedAt": "2026-11-10T12:16:15.000Z",
-      "category": "produccion",
-      "productIds": [
-        "aguacate"
-      ],
-      "context": "Si cambia el volumen de cosecha o el costo de producir, puede variar la oferta y el precio."
     },
     {
       "id": "ce2d411d0a943de39c99",
@@ -303,19 +226,6 @@
       "context": "Si cambian la demanda, el comercio o los costos de venta, pueden cambiar los precios al consumidor."
     },
     {
-      "id": "17cc4be4f5e1e77e89ae",
-      "title": "La inflación en México sube por tercer mes consecutivo y dispara el precio del tomate verde, la electricidad y otros productos durante octubre de 2026, según el INEGI",
-      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPNGl2SWZFOFdCVmdLdHZHaGx2bjRJWWVjOHQ5ZENzazRHWnZ2ZEdiamtER1NKay11VG8tbTVyNUtGcXRiMFBsSVdzVzlmejhIVENLZ1RrMGVHc1kya0ZpTWVtY0V1ZGxCd0d1aFIyazNuUHUzbmxhWHBqV0JVUXo1TEtKV2NLSkhqbjZwN1BwdnFLZlpSZ0RjSE0zaFBqYW9wQWQ2b285V1pnV0xBV1dfcWdTRXY2MzhEb3ExUWQzVXdMOEVTVi1rX0hrSldJWFZvZktySmdDZVZwRUtYSlRXbFoyd0JwX3lrang5ZkMwZndUdGRhay1aUG82bGFxUEw3cUFzWDc2X3JqUXk1aWlRTEY0TlRleEJ3bWVrbDhmdGx5X0FFdktfeHBEalN6UU9uZi1teXd30gHQAkFVX3lxTE4xYXI2bklmQUFYQk1GeFJ2T3JqT2l1S1Y0bjdKWkk5ZElKVDNyUThocmxGMG1IUzVrSUktRWhQTUNkdGozeEh2RmdWLXlMcEhNdWZwSUEtMURKRENzdEQ1SmtfaWcyTHNkM2p1MURQLTJGS01KcWJqeVRfZ1RKdmZZalluc203ZzBNOXIzYVFfNkJwQVNGLS1mdEwzRVdOTTR4YThEN2FHTDNWRGdiTWZKRW1ESnoxSEJoY3hNMl9obWUtOTd1akh4azVqdHBDSGx6dVpaWmFYc0lkZlppWXB0ckI1WnB5cHJIbFp6V1pKT2lkLXlfSC1jOFVCdzB5T0V3a3Z6NWxPY2tJckotTHNGbm9PRk9jWk45Z0pQY1NQWnl1MlJKZEVmWUVXQXJLNFFoT2VrT25IYWYtTFM0R1UzMUtQamdfUldyME5LTk82Rw?oc=5",
-      "source": {
-        "name": "El Imparcial",
-        "url": "https://www.elimparcial.com/"
-      },
-      "publishedAt": "2026-11-09T17:07:45.000Z",
-      "category": "mercado",
-      "productIds": [],
-      "context": "Si cambian la demanda, el comercio o los costos de venta, pueden cambiar los precios al consumidor."
-    },
-    {
       "id": "11a825fda0a3d0885680",
       "title": "Electricidad y jitomate impulsan inflación durante octubre: Inegi",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcXVYWV9RbUdJdlNfdk9yeWY1V2pEejVKVmgtVEtMTTQzRjUyOGdBdGJRbUVQaWJpZ2RxWHdDaFZERHB1cTlNeUJjY0VaQS1sX0FKSjkyZ0k5MTlHSlRWTUhJUGMwVE5fYmZkc1pHOHlxWnc5Y2YxTWNpYTNxaVdBODJ6UVBnVWZqV1p4ZzZYbHhWM243Wm9TbGdCR0htYW5EMXpOU0ZNTDVVRXJkMHB3YUhDVnFVbFBPYUJZ?oc=5",
@@ -328,49 +238,6 @@
       "productIds": [
         "jitomate"
       ],
-      "context": "Si cambian la demanda, el comercio o los costos de venta, pueden cambiar los precios al consumidor."
-    },
-    {
-      "id": "402267f9b1702ed345ec",
-      "title": "Inflación en México repunta a 3.75% en octubre; suben precios del jitomate y el gas",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUG16eUtZS3FKQmlKZUpHOFVvWm5zTTUxSjlvN016YTlqWUxUVW5LM1Bodm5RbjVEcTFfYm13QkRCd3ZXX01ISEk5V2Z2em84TGhoMXNpM19KSnAwR212cEZpOVppYkkzbjRjZ1d3VWZvbi1ZVVdtektlVEdpUlRJR0hrWkZSaTNQT3BmUmx2Wk1sdS1HS2EtZFdvU3lDamdGUDRrT2ZibFN5VXAzLV9KR2VXOA?oc=5",
-      "source": {
-        "name": "Colima Noticias",
-        "url": "https://www.colimanoticias.com/"
-      },
-      "publishedAt": "2026-11-09T15:55:18.000Z",
-      "category": "mercado",
-      "productIds": [
-        "jitomate"
-      ],
-      "context": "Si cambian la demanda, el comercio o los costos de venta, pueden cambiar los precios al consumidor."
-    },
-    {
-      "id": "22c80907a9e1f0171d09",
-      "title": "Exportación de aguacate enfrenta menores precios y mayor competencia en Estados Unidos",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQelpSY0QwT2NWbnYwQzRkRThyUXQ2Qk05LWU3WGk0bWo0QkEwUG0zUGJUUW1pWl9aamxnQVp1SDNNM3VnU3lSZ1ozcWdzVkpkMlRGN1FKYlhsNFRSOHlQZlBiWENKN3RGbzlrUFBnMFpNd0NmaVN5UVRFXzJ3RnlLMm1mOVJnNURaNVk3ZFotUmk2TlpkWUNoeElSRTVSNUZYS3B2U1RJcDRXSm1tMS1aZkljMWJDOG95YThWOXpVSER4WVJNNEkzSzJiTFNJZzNiWnc?oc=5",
-      "source": {
-        "name": "Debate",
-        "url": "https://www.debate.com.mx/"
-      },
-      "publishedAt": "2026-11-09T15:10:00.000Z",
-      "category": "mercado",
-      "productIds": [
-        "aguacate"
-      ],
-      "context": "Si cambian la demanda, el comercio o los costos de venta, pueden cambiar los precios al consumidor."
-    },
-    {
-      "id": "e60252da826498409807",
-      "title": "Inflación en México sube a 3.75%: tomate y calabaza disparan sus precios",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaURvSzVfS3VWWThiMk54MEl1YXlXVXJrbzRheHpLMmFuOHJ2N0h1TThLa2RJczBUQ2l0ZkcyQ21vS1pKZmxqcng3ZDhlUy1LdHktSmJSRXl4NFJUUm9vZHNvV2QtN1FtZEpHQ2lCSFgzVUlFbVFPYTNwOEZTYXBQX282WDhvV0RqY1ZxclMtZ0F1Wm94aUU5WkNCb3NPTm1Ba3hIWlVMNERETlF4UUZNaktMTDVDQdIBuwFBVV95cUxNZTdWV0owaDBVZGFrYnRYQjJGOUhhT2x3Q05UUlhwTk1pU014SGtLUDg2NklNUkhTcXlaX3FvdDhHUEdiWE9WSVVYN0Zqb1A0RnB6eHo2enpYTnJub1NHTVAyZGlUR0xiUFZCNU1EQU8zQ2d5dzMyZ2kwU1RMLS1sTlJyWWFqOVRTVHcxdjU5eUdfVFAzUVZDeEpEMlpKUFF3dGtTMzlTaDZWZkx1NDVTY2UyTTY2Y2JwSkdz?oc=5",
-      "source": {
-        "name": "Periódico Enfoque",
-        "url": "https://www.periodicoenfoque.com.mx/"
-      },
-      "publishedAt": "2026-11-09T15:00:57.000Z",
-      "category": "mercado",
-      "productIds": [],
       "context": "Si cambian la demanda, el comercio o los costos de venta, pueden cambiar los precios al consumidor."
     },
     {
@@ -445,19 +312,6 @@
       "context": "Si cambian la demanda, el comercio o los costos de venta, pueden cambiar los precios al consumidor."
     },
     {
-      "id": "2107bc14931275317553",
-      "title": "Tomate verde dispara su precio 35% y electricidad aumenta un 18%: inflación en México aceleró más de lo esperado en octubre",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPVXBWc0RMVVFtZnJiVjIzVHlncnF6UFJYU3B5ckRpckpFNm1tV1FYcUl1THJ4T3B5eU14TjRZY3dROTljM21jVEpjaF8yOWhhVUxmc3dzd2ZpbXlmT19MLWFOOHMxQmJUaHRtZVFQZ0QySTNuTU9yLV9jcDBYQmgxWXBINEt1N2RzYWdpSlM0R29xTWIyRkpVaDFHOFVRWTVYcWFQOGlGOHRaQ1hveWcydVRVdVdIUGpINnQyUTJjX3J3bUw4bS1lU3lRc2dKY2lHU0RhUHc5ZkFKOGpCMV9EWVZTSFpGM280TlUyeEtCRW5mcmpENm5MTUdpMNIBlgJBVV95cUxNUFFPckVwN1VoaDlrZkFSbjdTTkNCUF9zSnNSdHJOSkg5aDZzdUlLTE9mQzNwTFNFY1NzMGwxNldhT1RzNXpJcW5OaXpLTDhUUXFRVVFtQ2N4SWRkYlk4YlRVQjhVNmxZTUYwQ2tpWXZHbDc2SmFqSWFQaXJpcXBGZEN5cWM4RkoyX3Z3T0hSaXItbHpydF9OQWNLMnM3UzdJeklxYlFVR2pFbFBjbXFveXlHektJWXpBLUloSUtVV2ZmU05ZZTJqMXNpY012djI5MkVWSWZ2cE1Qcm9rc2Vad2RHeHJsWjlkYVZKLUJSam9HY3lXMFJGM1Zwb3l4aEduNjQycTBSaXVULXlWZDZZNlhkaktoZw?oc=5",
-      "source": {
-        "name": "Infobae",
-        "url": "https://www.infobae.com/"
-      },
-      "publishedAt": "2026-11-09T10:15:00.000Z",
-      "category": "mercado",
-      "productIds": [],
-      "context": "Si cambian la demanda, el comercio o los costos de venta, pueden cambiar los precios al consumidor."
-    },
-    {
       "id": "179591bd73b5701d99bd",
       "title": "México no prevé cambios drásticos en aranceles de EE.UU., mantiene defensa de exportaciones de fresa y aguacate: Ebrard",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQU3p1N01UX2xIUGdXVFc5MngyMTY1b2lUanhtNzY2SVl1ZktOS2FuaDJ1VVZOcjdMY0JiYXpEQS01Q2ZUNjBzOUxsVm5VNlVfWmpta1ZFR1NtNlFkVWNPYmIxUkRPOGxlSVJfbjduQ1lTN2JIOU9JZWFsQm9ScHlKS29WRlhVSGdsRmctUU4xTzFXSk9GU3hQeDVEVVhBY1BjdjZhel9sUUJDM0VnblVPSzBrWkNHS2l1Vy1BTk9NTzVSUFJENUM4MW9CUjIzN3pLaDdYTUZpYWNDR245NlRpRHBRQQ?oc=5",
@@ -474,19 +328,49 @@
       "context": "Si cambian la demanda, el comercio o los costos de venta, pueden cambiar los precios al consumidor."
     },
     {
-      "id": "b68d7760afbf7581f71f",
-      "title": "México reanuda las exportaciones de aguacate a EE.UU. tras una huelga de trabajadores en Michoacán",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM1VrdjQ3cFA1bHBBOERBV2ZCaXowa01zY1pJalRQQ1BBZ29aTnU1d3lMdHR0NFJDS2dWU252RVVfS1hwdDBYQ0g5b0IxUUd4NUF0bVg0NVVZOEc0S0xHOFpQYVZvTXVDaXYxQVZhVnV3aEtSOWt2ZWZSQ2xGOHBSQmEyYTJmZzFLOGRzb1dRN2xMRldYSWhfOA?oc=5",
+      "id": "16aa0a9778cd69567741",
+      "title": "México reactiva exportación de aguacate tras conflicto por precios",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOR0RkeFBIcVV6SXNzdXhHd1NwbURnd2FhY21mOGJOWWc4bmhxOVlJSVU2ZUhQb2tuMTJLeTRaVU9GZ0xKdlY3aktjbzhaZV85N0JYNnZudmM3M0dnZnpaYnN2R1NXd05jTFd3MldoVHlnbndES0U4WFdPWkNzV2FnT1BjTHlPM0RzRFlIWl9YU1BSVllFN2dXa1NR?oc=5",
       "source": {
-        "name": "Yahoo",
-        "url": "https://es-us.noticias.yahoo.com/"
+        "name": "Tribunanoticias",
+        "url": "https://tribunanoticias.mx/"
       },
-      "publishedAt": "2026-11-06T05:07:00.000Z",
+      "publishedAt": "2026-11-06T04:00:01.000Z",
       "category": "mercado",
       "productIds": [
         "aguacate"
       ],
       "context": "Si cambian la demanda, el comercio o los costos de venta, pueden cambiar los precios al consumidor."
+    },
+    {
+      "id": "382c3a3ba3b562008772",
+      "title": "México reanuda las exportaciones de aguacate a EE.UU. tras una huelga de trabajadores en Michoacán",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNSjgwNi1rMlNtUzNhc29wVVRTSFFBeVJDR0FVX04zNmx2YWV6M19IWl9QaldHUFQ4bUV2UGlDRU93ZmR5MFhRZ1RCSWJPYW1TMUNLOHhaT1NYVE56WFFRa3FoUVNrenhIcDFlR2VReTNEMVZzNTN4amFCSHJJUVY4YzJRc1N4NzBWd0hycnl5LXhDR3NpQUFWbHVLN3dXNDNkMUp5M0xxTDF4MW9lRzBSbDk4ZE9uMVN2WXl6MnV0bzJHeGFLRTNRdUg1OHR4TTRXODRVQXpLREJqRUR4d0RfNHh2MmUyVjluclBDLUZqSUxscjRTa21ad3RlZ3pkbmt3aGRFRk9HcFBvNTZnbExKVG5GTUpFNjh2UWJ3Y0ZfZWQtdw?oc=5",
+      "source": {
+        "name": "Telemundo",
+        "url": "https://www.telemundo.com/"
+      },
+      "publishedAt": "2026-11-05T08:00:00.000Z",
+      "category": "mercado",
+      "productIds": [
+        "aguacate"
+      ],
+      "context": "Si cambian la demanda, el comercio o los costos de venta, pueden cambiar los precios al consumidor."
+    },
+    {
+      "id": "7b9e303d2c337f54a102",
+      "title": "Estados Unidos cobra más por importar fresa mexicana; buscan proteger a productores de Irapuato",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTnJweFg0dUdoV04zYXdDdVBKNnphMVZKRUpyMWZIam5aTmJTZWgtWFBUeXN3UWptc3Z5aWY1bUNtNzU2dFZ2THRFNHJUOXFPOGh4NzBsdExaTFBfQ1kybVBCQkFtOGJBT3pCeHBqX0ZvQkJkQjkwRjB0d25mbUYtN2ZGeVNKYzdzVEVGb0Z3bHdKV3lrLUJ3ZEdZZVkxSm5kQmpod0JRX25GaHl0a09JM3BnR3N5RGJhZGplZlNOd1hZMFpZWWF6MVpBV3BSc3c0RnhZSktXWF9PVGQw?oc=5",
+      "source": {
+        "name": "El Sol de México",
+        "url": "https://oem.com.mx/"
+      },
+      "publishedAt": "2026-11-05T08:00:00.000Z",
+      "category": "produccion",
+      "productIds": [
+        "fresa"
+      ],
+      "context": "Si cambia el volumen de cosecha o el costo de producir, puede variar la oferta y el precio."
     },
     {
       "id": "ba91ab01f09c98076e55",
@@ -497,21 +381,6 @@
         "url": "https://pulsoslp.com.mx/"
       },
       "publishedAt": "2026-11-05T08:00:00.000Z",
-      "category": "mercado",
-      "productIds": [
-        "aguacate"
-      ],
-      "context": "Si cambian la demanda, el comercio o los costos de venta, pueden cambiar los precios al consumidor."
-    },
-    {
-      "id": "135033d4a57d514f2c45",
-      "title": "Productores mexicanos de aguacate levantan protesta y reanudan exportaciones hacia EEUU",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaTBvVC1PdFJtbDNCM1VTNUM1OFpjQ3VZLTNxa0NPYlpabUxqZGg2cnoySF9CSlVSS0ZEeHdSN2RtdTFyOU0yVmFmMjRxTXVkdGxacDFORUtRTEhkZnozRWE1ZzFPNnZGNDVqdDJRQ2lIaktGbjB0YWxIS0JhdlVYWjhqa3pyRjZQX1B0M05uN0RZRk45ZGhYaHRoOEdCckRfVl9mejF6NldHMXNiZEh3atIBuAFBVV95cUxPdzlRZlNQZ2RIZUtCT3pLRWt1aXNuOU0wQUZhUjM3QWhpYW1aLXNWVWRhcXI4aWliTXBGWjZBYnczVFp3YnZuVVJaZ1BENHh0bWxnV2wycW9uWjhGQmNpVE5QQ0E3dnVoQzJVZ2VOdnhxUWtYcEJvOEFTa21iYjdFUDdyYlpDTHlCcDFRcTl5U01acWVkTlk1VTdVcjJISWwzSko4dVVhQXhVRFF2ZFEwTWxoZy0yY0d2?oc=5",
-      "source": {
-        "name": "Telemundo Tampa (49)",
-        "url": "https://www.telemundo49.com/"
-      },
-      "publishedAt": "2026-11-05T01:50:00.000Z",
       "category": "mercado",
       "productIds": [
         "aguacate"
@@ -549,14 +418,14 @@
       "context": "Si cambian la demanda, el comercio o los costos de venta, pueden cambiar los precios al consumidor."
     },
     {
-      "id": "06ccfd5ac5ce0d7505c3",
-      "title": "AGRICULTURA anuncia normalización de cosecha de aguacate de exportación de Michoacán",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVjZubERlMkJsLVg2LUhoSnF4TllqMVN3OFRIN1BGdUE0cVoyeXVjQ005OVROczBKZi1YaXdZUnNRNDgxSzNxeUZka285SWF2MUhhTnpNalQxZ0s3X3ZWekEteTJHV1FlVFZrSGdHMVlnS09oSDgteFlHaEhtWUU3SWhESzRNZU9TR2VrRXNKNDJSMktwazc2cEFWakJ2OTl5NFp5R09sbUhtcG5tZVV6UVVEdS0zNVcxWWc1M3JPNXBFY2RMNnVOR0loZw?oc=5",
+      "id": "7ed2662a566d65751529",
+      "title": "MÉXICO REANUDARÁ EXPORTACIONES DE AGUACATE TRAS ACUERDO CON TRABAJADORES",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPemJPS0lKblFqMlRSYmd0QjM3MGNtQlp6Y1g2XzF3NzhkM3NKaVhDVlBfRmN2dGh3Y0NLSUhXX1pSc1lfY3Iwa0x1WDlXV1ZxYnVsbFgzRmV0OHZoaURuNXZjV1hMWmJvanJhcGFuTmpWOUw5aGFxSjNJNXhHTmxmUTVNM1ZZVEJBcm5iaDZSWDRPQ0VPOHZ6V2t0QjdZazZsaEdZcm1vM0VYeXQxLWdyOGgyUXZieUk?oc=5",
       "source": {
-        "name": "Gob MX",
-        "url": "https://www.gob.mx/"
+        "name": "El Heraldo de San Luis Potosí.",
+        "url": "https://elheraldoslp.com.mx/"
       },
-      "publishedAt": "2026-11-04T18:38:51.000Z",
+      "publishedAt": "2026-11-04T20:13:45.000Z",
       "category": "mercado",
       "productIds": [
         "aguacate"
@@ -579,6 +448,21 @@
       "context": "Si cambian la demanda, el comercio o los costos de venta, pueden cambiar los precios al consumidor."
     },
     {
+      "id": "b3903d52ea72574295d8",
+      "title": "¡Vuelve el aguacate mexicano al mercado internacional! Reactivan exportaciones tras conflicto por precios y alertas sanitarias",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcFAta2xDV2FOYl9FdDB3VHlLa3hfVjhyUExWM2ItdTdlajNWTUhGSkZMSERhWm0zWUlQT09IMjNaUGdOcGJzUmw4MDlIME1nWnVfMTdmZm1IN3RFcERaQVBZV045NV92Tk1hWFFSdm5QajVZNEM5X2gwNnhtSmJwdVZHaElmNnV3OURVNENyZlZGNlZPU2FOdEY1QkpZSjRsM1A1ZExZQWNGR1RENlBySlhtd0dZYUVTYnRaM2x5V2tjenp6ZU9pY3pyV2NoREZaY3l6a0Vyd1FsT3EwNU9xZ3BKcjhvMTh6cmtHT0stYzBhaTg?oc=5",
+      "source": {
+        "name": "El Imparcial de Oaxaca",
+        "url": "https://imparcialoaxaca.mx/"
+      },
+      "publishedAt": "2026-11-04T18:18:00.000Z",
+      "category": "mercado",
+      "productIds": [
+        "aguacate"
+      ],
+      "context": "Si cambian la demanda, el comercio o los costos de venta, pueden cambiar los precios al consumidor."
+    },
+    {
       "id": "f5ffc19b402296a12402",
       "title": "México reanudará exportaciones de aguacate tras acuerdo por caída de precios",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRTd3Mm9qd2cwTDNNN3dxY09NUlhHbkQ5NnpxRHEtWHNrMURkdGp0ZnhrTHRsS2hNRVJtdmU5MkFlTWNYTkcyVndXcTBUOTNHN2pLa09wTGpza0doMUhBZ2l3VE9OLW9uUVF5VHpSWTVveFBxVUxOT0t4MGJ5Q01iN2ZxVXNfS0FoMXdGR2szSU81Wkc0RWFEUUtrUVpXeHN4U0hwRWhqYmQ3eGd0SldyUzRKVklHTXc3WEl6MDk1Xzh6ak5VdUMxbFh3?oc=5",
@@ -587,21 +471,6 @@
         "url": "https://notigram.com/"
       },
       "publishedAt": "2026-11-04T18:06:17.000Z",
-      "category": "mercado",
-      "productIds": [
-        "aguacate"
-      ],
-      "context": "Si cambian la demanda, el comercio o los costos de venta, pueden cambiar los precios al consumidor."
-    },
-    {
-      "id": "ef55e517f954c907aaaa",
-      "title": "Aguacate michoacano volverá a exportarse a Estados Unidos y otros mercados",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUjV0TWlFV2ZkMHZEc3J4cjBHeWtzRlphUGRxX3p1V3BkTXRjX2xDaU5mc25nbmpvZC1wNVdaOG5LM3o5MFlxS0g4UWdpZktkQUs0dnU5aS04SnljUms2TmxJbV80aFdmWFZsSXJMNWJxTkdPaUVJU3JvSElXQ1Fqb2V5Vlk1TkwwbHVjUGIyeHJ2OVhUUHpVdUUxX2VYMkVLM3NOZkxoUXFHLWdCaDhyS2JGT1pnRTVzQk1WbmNuOWhpcnpYT055UjlBSDNEd2s1V0g0UGx5UUZGV3hMWEdYLQ?oc=5",
-      "source": {
-        "name": "La Crónica de Hoy",
-        "url": "https://www.cronica.com.mx/"
-      },
-      "publishedAt": "2026-11-04T15:57:29.000Z",
       "category": "mercado",
       "productIds": [
         "aguacate"
@@ -639,6 +508,21 @@
       "context": "Si cambia el volumen de cosecha o el costo de producir, puede variar la oferta y el precio."
     },
     {
+      "id": "135033d4a57d514f2c45",
+      "title": "Productores mexicanos de aguacate levantan protesta y reanudan exportaciones hacia EEUU",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaTBvVC1PdFJtbDNCM1VTNUM1OFpjQ3VZLTNxa0NPYlpabUxqZGg2cnoySF9CSlVSS0ZEeHdSN2RtdTFyOU0yVmFmMjRxTXVkdGxacDFORUtRTEhkZnozRWE1ZzFPNnZGNDVqdDJRQ2lIaktGbjB0YWxIS0JhdlVYWjhqa3pyRjZQX1B0M05uN0RZRk45ZGhYaHRoOEdCckRfVl9mejF6NldHMXNiZEh3atIBuAFBVV95cUxPdzlRZlNQZ2RIZUtCT3pLRWt1aXNuOU0wQUZhUjM3QWhpYW1aLXNWVWRhcXI4aWliTXBGWjZBYnczVFp3YnZuVVJaZ1BENHh0bWxnV2wycW9uWjhGQmNpVE5QQ0E3dnVoQzJVZ2VOdnhxUWtYcEJvOEFTa21iYjdFUDdyYlpDTHlCcDFRcTl5U01acWVkTlk1VTdVcjJISWwzSko4dVVhQXhVRFF2ZFEwTWxoZy0yY0d2?oc=5",
+      "source": {
+        "name": "Telemundo Tampa (49)",
+        "url": "https://www.telemundo49.com/"
+      },
+      "publishedAt": "2026-11-04T08:00:00.000Z",
+      "category": "mercado",
+      "productIds": [
+        "aguacate"
+      ],
+      "context": "Si cambian la demanda, el comercio o los costos de venta, pueden cambiar los precios al consumidor."
+    },
+    {
       "id": "673744f0e11f9459c777",
       "title": "¿Por qué cayó el precio del aguacate en México? Sheinbaum explica qué cambió en el mercado",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa2tGVFhyUldUdW1sX2Y4UlZMeGtEeTVtUC1WcVk2Y3VoclhBUjFhNVVJb2w4QTJGTTRWa3Y0QVhMMjh2c3BDbUFKY05xSWdrRGJ0b3VVdXMwQ0ZfdUF1SW1TMXlVSXFNQnJlQWtwR0wyWkNSN0c4bDVaSm5SVTVkYVI3WklHWnlQMkU0cHJ30gGbAUFVX3lxTE5PblZLNFZUUnFabHRtWXc4VUlSLVFyM1ZCa0RjTVJxb1N4RWZPcS0yWnhnQnpDOHE0SXJ3VWFvazdUS1p1ZlV0YUZBRlE0Rk12Wm1WemN3QVpRaE9yUHVLcS1ka0c5eWJETFZWZmpoekZUV1FJel95R0t6Ri00VWc5N1hlYXJNaUlUOWNyYkpWUTNHWDVEZmJhZjF3?oc=5",
@@ -660,6 +544,21 @@
       "source": {
         "name": "Capital México",
         "url": "https://www.capitalmexico.com.mx/"
+      },
+      "publishedAt": "2026-11-04T08:00:00.000Z",
+      "category": "mercado",
+      "productIds": [
+        "aguacate"
+      ],
+      "context": "Si cambian la demanda, el comercio o los costos de venta, pueden cambiar los precios al consumidor."
+    },
+    {
+      "id": "7f3beca3c4b7082e134a",
+      "title": "Agricultura anuncia normalización de cosecha de aguacate de exportación de Michoacán",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMklfejlXZ2JRd0VhbThiR2ZOY0ZTOE91WE0xZWRoVk5PVWxfa2RNV1BpdkVQRTc2T1laQmNXaWdvS1h2MGNiWnZjek9PanI4YXpKdXpJQm9MUXRXdUpXVmVsN25xLW9HYVRlM3oxZkNWSG1HNHBIOU11SWtPN3JYRFdQTGVyc1ltUnB4VUtXcjlGNmxnQTRsUGwzcTBUemdRLVVnV05HeTVoTzhRbmI4a1lCWWlIX1ZlU3c?oc=5",
+      "source": {
+        "name": "Talla Politica",
+        "url": "https://www.tallapolitica.com.mx/"
       },
       "publishedAt": "2026-11-04T08:00:00.000Z",
       "category": "mercado",
@@ -714,6 +613,21 @@
       "context": "Si cambian la demanda, el comercio o los costos de venta, pueden cambiar los precios al consumidor."
     },
     {
+      "id": "ef55e517f954c907aaaa",
+      "title": "Aguacate michoacano volverá a exportarse a Estados Unidos y otros mercados",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUjV0TWlFV2ZkMHZEc3J4cjBHeWtzRlphUGRxX3p1V3BkTXRjX2xDaU5mc25nbmpvZC1wNVdaOG5LM3o5MFlxS0g4UWdpZktkQUs0dnU5aS04SnljUms2TmxJbV80aFdmWFZsSXJMNWJxTkdPaUVJU3JvSElXQ1Fqb2V5Vlk1TkwwbHVjUGIyeHJ2OVhUUHpVdUUxX2VYMkVLM3NOZkxoUXFHLWdCaDhyS2JGT1pnRTVzQk1WbmNuOWhpcnpYT055UjlBSDNEd2s1V0g0UGx5UUZGV3hMWEdYLQ?oc=5",
+      "source": {
+        "name": "La Crónica de Hoy",
+        "url": "https://www.cronica.com.mx/"
+      },
+      "publishedAt": "2026-11-04T08:00:00.000Z",
+      "category": "mercado",
+      "productIds": [
+        "aguacate"
+      ],
+      "context": "Si cambian la demanda, el comercio o los costos de venta, pueden cambiar los precios al consumidor."
+    },
+    {
       "id": "6e0316c8638d9ce61b6d",
       "title": "Una amenaza por gusano barrenador abona la huelga de pequeños productores de aguacate en México",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPclVNalI4RndwYzVLcXJBOVlpVUZERDhZOGJfRHRKdGQtbHVUekc3Sl9XTjduZVpxd25ZVUxfS09jWGdnSERxcUR5MGpZT19vOFRTalVhaklXZC0yeWF3VkRucGRYa1ladEJ4ZVJZZkI1S25GelVEdXhGekdSQ21uS2JaV0VNVno4M21aYTk0UlFuR3pKNFFmN1FYa3doR0tVRHk0bHdCNVRKcmo1QUZEQV93S1UtOVBpNlJyMVpMdTV1NThUckNoNEpPazAxNks4U1B6SlNYbWpDOG55MFVB0gHzAUFVX3lxTE0tMnBBS0NrRzkwa3liOTVtS0lZUDhfT0JpUWpoLWNkeW1oZ3lyWHRsdV92LVpzdEdvVjY2c3RKaUlJTFpTNEdOYlhmbFFkazU3eS1lWW56TXJCLTlYbk51WUVvZ0VPTmRobFRmbC1RTzRuNU4wUWRyd3J2X25IQW1LYWd4aFl3a1JDX2ZJWnlzUGEyN3pjUEZNMEQwM3RxeGVmaFBKMlp2Z0JEZm9wdjQwWXFDQU8tSF9Sa09FcW9MdTF5MkIxeEluak5tSlJvUlgtQS1uRmEwSEhQcW1MdENVWmlZbzhUNTg0b1EyT3oycm92aw?oc=5",
@@ -757,6 +671,21 @@
         "aguacate"
       ],
       "context": "Si cambian la demanda, el comercio o los costos de venta, pueden cambiar los precios al consumidor."
+    },
+    {
+      "id": "b0e0a6a565346478b27d",
+      "title": "La paralización de la cosecha de aguacate en Michoacán amenaza el suministro estadounidense",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUmttaE1fdFE3QXhOdC1vcTRTUDd1NVVNaFNuSkxHS0hsOWRqUzFKUkNQX3M3WFFZWFBCdlVIU0Q5bEhLNWlKTUFBYXZpSkNpUU5KSzBzZzdkLVB0QTNqYldsQUpROGpFVkMxb0lGOU5UaHpuZUhHd3pEYXNWMDJoSjg3NFVXcG82djBmY3NrcVM1UHJPSmJF?oc=5",
+      "source": {
+        "name": "Portal Frutícola",
+        "url": "https://www.portalfruticola.com/"
+      },
+      "publishedAt": "2026-10-29T07:00:00.000Z",
+      "category": "produccion",
+      "productIds": [
+        "aguacate"
+      ],
+      "context": "Si cambia el volumen de cosecha o el costo de producir, puede variar la oferta y el precio."
     },
     {
       "id": "11cff44fd6d4bfe64025",
@@ -832,6 +761,51 @@
         "naranja"
       ],
       "context": "Si el clima altera las cosechas o su distribución, puede cambiar la disponibilidad y los precios."
+    },
+    {
+      "id": "50ea35ec636c267f4091",
+      "title": "Culmina cosecha de cebolla en la región con precio de 20 pesos por kilo",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRUdNNDZzZ0t1ZWpMa0ZaUnc5WFVVcloyVkVPdTBCeEZLNFlWZkQ0enduaG9jeng2Vkl6QVNpVlU2TzdSTmFZdmJISDIwZmxMb3BZQjliUU1XTndraWxQNVR6OHVfWU1nZ1hiT2V1MmVoWXJ2NHlLYllmdWVNcDJKUXpTSzNUcEoyeEh0RWswOUFwdHZxOTBuSHlFaGhjcFBIZTUweFVrSnE3R3A4akpxRmM4emNYQnVDSE5Z?oc=5",
+      "source": {
+        "name": "El Sol de México",
+        "url": "https://oem.com.mx/"
+      },
+      "publishedAt": "2026-10-27T07:00:00.000Z",
+      "category": "produccion",
+      "productIds": [
+        "cebolla"
+      ],
+      "context": "Si cambia el volumen de cosecha o el costo de producir, puede variar la oferta y el precio."
+    },
+    {
+      "id": "7e4e30d73ff7117415c8",
+      "title": "Triple Aviso por Lluvias Fuertes en CDMX: Activan Alertas Púrpura, Naranja y Amarilla",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVGZTRFZUWU4zQ3JEOTVtX1JFUFVDcHYyQ3JTQmJTLU1GR2htUXY0T3BxZm9Gb3YxTjlfbzZ2R3Y3eGo1bHVwVzJjTm9fRzkxMWFJNmlCY0xsZTIteHJPa0E0NGFKclhRLVdDRk1CcEROam0ycU5MQmdxNnRhUlJLX1dZZkpKdjNkeVZDSWszWF83RDB2Qm1ZVE9uNC1VRWJ0QV9mQzVWWXNWZ0htVml1VnNWY0RMV1JqX0wxTmdwZGx2VEIzY2p0TE1LeTM?oc=5",
+      "source": {
+        "name": "N+",
+        "url": "https://www.nmas.com.mx/"
+      },
+      "publishedAt": "2026-10-27T07:00:00.000Z",
+      "category": "clima",
+      "productIds": [
+        "naranja"
+      ],
+      "context": "Si el clima altera las cosechas o su distribución, puede cambiar la disponibilidad y los precios."
+    },
+    {
+      "id": "a2c81919684b54afadce",
+      "title": "Un experto explica cómo afecta al bolsillo el alza de precios de la cebolla y el tomate en México",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQYlVfSGJzMG15eHBUb1J4MWR2TXI0VFhXd3JXR05DLURFaHdvX2Q3czdCcFY3QnVrenBYOWM1OGdyN1FDOFZkLUR0b29LMG8tM1o1MlBkM2xueGllUl93M25ydkxtZ190blNnODRwdmtyZWFCZ2Y5bS13eWlIVVFGSUVMY1RXN056U0htYldFQS1PTEJHX1FqTDZMbGhWSks0UXJpcmRFRFpDWC1oN1pkNG5zOFVYTHhFcy1DaktTMUZaeTRwYTBDczVtbmxZSXZldkc2SHFpaU9zb1AydWExVVVoYnREcEE2eWJEeEZzQzlaYU42SV9hSTYtSVFKQWJpSDVQWHZGUVM0OXNUT1diX0dn?oc=5",
+      "source": {
+        "name": "Telemundo",
+        "url": "https://www.telemundo.com/"
+      },
+      "publishedAt": "2026-10-27T07:00:00.000Z",
+      "category": "mercado",
+      "productIds": [
+        "cebolla"
+      ],
+      "context": "Si cambian la demanda, el comercio o los costos de venta, pueden cambiar los precios al consumidor."
     },
     {
       "id": "e4f2b96a7335612d9ef7",
@@ -1071,21 +1045,6 @@
       "context": "Si cambian la demanda, el comercio o los costos de venta, pueden cambiar los precios al consumidor."
     },
     {
-      "id": "458d3b64540ae7db1573",
-      "title": "Rechazan aranceles contra aguacate mexicano",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaFpGbVRDczBRNG5PRnNhYjdkWUs0WTdDMUhiT0h4VHdGLXR5VGt2R2JRUGtsSC1LSnNzOHZ4ZVNvbjFmaXU0WC1DWURHRU5MZmNVYWdyN3pNd2MyN2hRd0FsVDFfQW5QWXFDRHZ2NVU4Qzg4MkJKSVhHYk9RUVZ1d0hvclVRWnJrTDU4T1RLcDBUcDFqQXdBM1dRdUdJeXpBblHSAaIBQVVfeXFMTWhZOURTMGVhUnpENi1JNmstU2NwNXVNaHRLYi1ETzdOanhXelphbU9EZklPcWc2c3E1YUhfQy0yM2lhQWVtTDI0aWV2aTEyZERlcHJ2ZFpMeGF5WmxsczNmUHBMVElQM1JIcV9xM21OYVl3OFg1Z0lnTENyNGFjaGJqNHc3RDhMc2o4ekdiWWVIQVp2VUlTOG5MbXJ6V3FUREt3?oc=5",
-      "source": {
-        "name": "Milenio",
-        "url": "https://www.milenio.com/"
-      },
-      "publishedAt": "2026-10-14T07:00:00.000Z",
-      "category": "mercado",
-      "productIds": [
-        "aguacate"
-      ],
-      "context": "Si cambian la demanda, el comercio o los costos de venta, pueden cambiar los precios al consumidor."
-    },
-    {
       "id": "d2eb4e1362f98d26c3ef",
       "title": "Congresistas de EU buscan imponer aranceles al aguacate mexicano: CNA",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYmtHdlhkdjdxXzdzeWM4UW9jb05wTzIwQ1NGLUd1VWlzUEdFOXZyN3NBcDNQRnMtOHN0V2ZiVm9EUFRPREZhcXlUY3FQWHpzUXRqUXJmbFl3ZlVfMnliMTBQelB6bDAtSHlld3ZRbkJpa00tUGwyaUJBOUZRdURFMjFGN3JrbktlUG1QTkJIUS3SAZABQVVfeXFMTTRSMnpweW14WWRmZmNudDFYQ0duRW8zczJpMEcwYnJpT2E2ejJxbHJfUm14OWNua1l0RDF4NEZhLThudTR5MkN4dFRsb1ktcVlrTmQzS1V2MFVYd0FYTXpGSGI2RzB4Wnh0VDk3VnhEYWk3RS1aX2dERHA4RzAxR295bGg3a2t2c0RuWXJReFct?oc=5",
@@ -1145,19 +1104,19 @@
       "context": "Si cambian la demanda, el comercio o los costos de venta, pueden cambiar los precios al consumidor."
     },
     {
-      "id": "90253b927909300f1b14",
-      "title": "Canasta básica en León: kilo de calabacita llega a 50 pesos - Noticias Vespertinas",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeHQxMHQxcHAyNnk3OXFxek1nZFNpXzQ4Ti1zNTNiNXVOc2dqamlpdjJrUGs5Q0VLR1A3LVNqaHZ5SkxqaE5lSWxDOWFWV2Z2WjNkREUtbEFjM19FQXdvOVVIS0plbDJ6TC16d2RDS3MyYnctb2ZQZFpsb3J1a0k2Z0tSVGNhOWJfVVN5NmJXTTVPWmRYeGl6ZkhsVThDUGo4WnpuUFlmVDVBUFBZSkdsSjhB?oc=5",
+      "id": "d6a8c89222eb1d4fccaa",
+      "title": "Huracán Simón activa alerta por lluvias; cinco municipios de Chihuahua están en alerta naranja",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdnZnQWN2NGhTZ2xaMGJxTnRNc3lGQUc4c2NZeVg4QXR1TmF0QjZJRl8tTmhVUDZKQWlFUGdTb2ltYldPTks4dTNxcE0wbFZfcGFEN1g2TkxYSExKZkNQa1QyVkxPbFFCMGkwQUhkU0lsY2lpQl9kb2lScEZsQTcxcEJXby01QmdBRU90Qi1ERGJUTU5sdlpxQ0p2cVpvcXY3SFVOclNfOE1xSll0ZDJDYjBVdDNVYWJPMTdGWGEtMWpFUFNVeDFERWJocmlacHhocE4yMWNZTjFxVDdB?oc=5",
       "source": {
         "name": "El Sol de México",
         "url": "https://oem.com.mx/"
       },
-      "publishedAt": "2026-10-12T07:00:00.000Z",
-      "category": "mercado",
+      "publishedAt": "2026-10-11T07:00:00.000Z",
+      "category": "clima",
       "productIds": [
-        "calabacita"
+        "naranja"
       ],
-      "context": "Si cambian la demanda, el comercio o los costos de venta, pueden cambiar los precios al consumidor."
+      "context": "Si el clima altera las cosechas o su distribución, puede cambiar la disponibilidad y los precios."
     },
     {
       "id": "f767f84eb55af9778f90",
@@ -1235,36 +1194,6 @@
         "cebolla"
       ],
       "context": "Si cambian la demanda, el comercio o los costos de venta, pueden cambiar los precios al consumidor."
-    },
-    {
-      "id": "5bb54ad21fc23d7ec4f0",
-      "title": "Taylor Farms decide suspender la lechuga iceberg del centro de México para EEUU y Canadá durante la temporada de lluvias",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNOVloLXFZYW1TWFY5N1kycTlORTJwd3ZtcFE5RXdGd1R6UU5nUnYxeVVHdnNScjRPNGJPRUV1SG55dGxRRVkwMjlCZkNnSXE5ZTZMYktpTTBlLUJHbE9qQUxCOEhlLURnY1VKdHQ3dW9kRERvX295UlltX2hGdnM1M3dlc0xjeHhYX3ppc3NkN1FvejZoSVY5RlAtTmRreTZQaGx6VXFaX3g5Z2Q3RTdFUTN2NnJ3VGlRZzBlaHBjTjdLVVIwOUJ5WmtmR3gwbEVaWmJZMTRRNlFmY3dfcVBmZzhJMXZJZFY1dGxJRkVZNGRvNC1yQ1pQNm1B0gGUAkFVX3lxTE90eXBiVXhQUWdjTGlUVy1kYXlYdHZLQmpIMUM1X01IWGVuNVpKbkd6Nl9yV3I1dWNKTldrVEpmc1ZUNC1JRlRER1c1TTBIN0dQeFAwbXJFV2lMeFpGVDRoS2VtNkFCU3pCc3F0TUJ2RU1fbGFFc21QMjk3UXMwcHdHS1p4Zl8tU25NQkdDeEc0cHdRNUlyTTE0SWI0ZmFwNlR4Mm43Zm5XV3hIUDB1TUxheFFDa2Y1X09UOTJpSW9pUlpQNkk0NEFpdkl1SHBlQUJsWExQOFpHaU5rcjhBWS1BNGQzMnF0TXJVVHVBWDRQeGl3WjhlZkxkWnVzQWNqQUFSTnZkTVNUZmdUS1ZTSHBPTEFVZA?oc=5",
-      "source": {
-        "name": "El Imparcial",
-        "url": "https://www.elimparcial.com/"
-      },
-      "publishedAt": "2026-10-08T07:00:00.000Z",
-      "category": "clima",
-      "productIds": [
-        "lechuga"
-      ],
-      "context": "Si el clima altera las cosechas o su distribución, puede cambiar la disponibilidad y los precios."
-    },
-    {
-      "id": "b132573fcb306c66f0e9",
-      "title": "Empresa suspende cosecha de lechuga en México por riesgo de ciclosporosis",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVWZFc0VtN3RxT0VuVHpHNUxpM0phY3V2N0ZhcHlkNDJNbjUyYThESVJxa1Nvck1yN3FxbWlyVEo0VG9EZG53TUFBYkRXRVpvVzNSNERFZ3g0YkhmRE5FWk9hN0FRSDNXTnd6VE9TSzZ4dGZzRUpjV1NvaHNwOUJ3QjFhT05Lb20zSzBWTzFOS3pjaEprNDd4ZHZTRG5TenhYZnZWRDFuMWhIODM5anJPQTlGd1Y0S2J1X3N4MVVTTEN6Xzg?oc=5",
-      "source": {
-        "name": "ABC Noticias",
-        "url": "https://abcnoticias.mx/"
-      },
-      "publishedAt": "2026-10-08T07:00:00.000Z",
-      "category": "produccion",
-      "productIds": [
-        "lechuga"
-      ],
-      "context": "Si cambia el volumen de cosecha o el costo de producir, puede variar la oferta y el precio."
     },
     {
       "id": "be9022fc90f66a8d44f4",
@@ -1431,6 +1360,21 @@
       "context": "Si cambian la demanda, el comercio o los costos de venta, pueden cambiar los precios al consumidor."
     },
     {
+      "id": "67b236cea381dc7b619c",
+      "title": "Bajan los precios del limón mexicano en EE. UU.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaTVEeGJjSHBwbktFT09KNkJDWjY0SThpT3l0VVdMalJZdzdKZnZhYW1hbzlOSzZuOXU2WWw3WmQ4LUFobV91bmJkRU0ydVozd0Vid2FyZFZDbzdLeVpuZzBrNzNpeGd4dWh2R2RzVjcxd0dxVWFRVmxYbEtXQXdkdDA5bnplNFhndDM3MGF6QnI1NEZtUVVuMEdqODY5NF9ZUTZuRw?oc=5",
+      "source": {
+        "name": "FreshPlaza",
+        "url": "https://www.freshplaza.es/"
+      },
+      "publishedAt": "2026-10-05T07:00:00.000Z",
+      "category": "mercado",
+      "productIds": [
+        "limon"
+      ],
+      "context": "Si cambian la demanda, el comercio o los costos de venta, pueden cambiar los precios al consumidor."
+    },
+    {
       "id": "000a9b5804c762f72114",
       "title": "Aguacate blindará sus exportaciones con nuevas certificaciones de trazabilidad y formalidad laboral",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQT3Y0WnhTYzkxbExWWmxfQjJvd1pxem93UnNXall0Q3VfSjBXekNqemZfeVRBc2ZzajdaX2hxWm51aEV4VjlUbTQyQi1NdngzTUtRYTZ0X1o4a19rZ1pac2toNDJpX0pEMzJoZHBOcTlCTWR4cHZsSFVtWTM3cjZMUnBXWk9Pc0taNG9vYVBhWnd3Sms1RnBPQXVSVFA5aDdKdWZhZHo1TDEwMUk0b2VtTmZuTkFrSjhEenhzZjNTMlR4TUJSNTRPZGtmQ3o4REhKYmllWUtQMmtzS1VCVUowS0hB0gHnAUFVX3lxTE82X0M1YmRjZ2daMFRfY0NPaTFpd2dlTUgySEJja3pYTDRvYjNtbl8ySFlKMUhfRi1sZ0dzMDFBV2xLcnRSOWFlbk9wN3RJN3Z0UXBmeU12ZTFwNXBIMHJJS0p0ZjZXcVlmVkQ1U0sxMXR3SzZFM0h1WVdQM0k2dmVTTFRaNkdxbDJDR2JNWFhRcXJxcUFVWkdOOVZGa01SMU9EZ1J3dEE4aEtfQnJfUWQ2TnNUamloamh2YldKNDZLZXQ1a2FQX2NFN3ZtMG1id01VWm1OQl9HTFVHOFNVT3ZWdzBCTW1IRQ?oc=5",
@@ -1467,6 +1411,21 @@
       "source": {
         "name": "UnoTV",
         "url": "https://www.unotv.com/"
+      },
+      "publishedAt": "2026-10-04T07:00:00.000Z",
+      "category": "clima",
+      "productIds": [
+        "naranja"
+      ],
+      "context": "Si el clima altera las cosechas o su distribución, puede cambiar la disponibilidad y los precios."
+    },
+    {
+      "id": "4f4c21b94919c0a15865",
+      "title": "SE ACTUALIZA ALERTA NARANJA Y ALERTA AMARILLA POR LLUVIAS FUERTES Y CAÍDA DE GRANIZO",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45WU5pZHZZSVA5MUhVQnE2TjVZZDNZZG1PR1UtVzZ5MWdMSGg4eFo1Vm0xSU5zQXM4aTBLdU0wSG5WM2Q0TldWdUUxdWdLZ2djRVEzU01iNFZvY1JwMXV0eFhuVVN4VWFpMjgwc29xMDY1M3pF?oc=5",
+      "source": {
+        "name": "CDMX",
+        "url": "https://www.proteccioncivil.cdmx.gob.mx/"
       },
       "publishedAt": "2026-10-04T07:00:00.000Z",
       "category": "clima",
@@ -1566,36 +1525,6 @@
       "context": "Si el clima altera las cosechas o su distribución, puede cambiar la disponibilidad y los precios."
     },
     {
-      "id": "b0040355ac2d07ad414b",
-      "title": "Se activa Alerta Naranja y Alerta Amarilla por lluvias fuertes y caída de granizo",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSHBUc3J0RGJCM2c5Ry15QUhNRzdpYnRpRzdYTW81eXVvdS1QRU1VcTJaM0w1QmhUMk9yYXJiU3hFRmczQk56dy1fRmZCazZxTFFKcUR0NldvSmtpQTZlenlmRUl0OExSdl9qR0lFc1YzclVPTnZ6M2FSUk0zcGxQRHU4cFgtVU5XZ2tyNVdSZ3BvZDlRVzRKblVRd0h0amZNbE83NTdyQkx4akptaWhEVA?oc=5",
-      "source": {
-        "name": "Hoja de Ruta Digital",
-        "url": "https://hojaderutadigital.mx/"
-      },
-      "publishedAt": "2026-10-04T07:00:00.000Z",
-      "category": "clima",
-      "productIds": [
-        "naranja"
-      ],
-      "context": "Si el clima altera las cosechas o su distribución, puede cambiar la disponibilidad y los precios."
-    },
-    {
-      "id": "e348dd2c708de897dc2d",
-      "title": "Domingo de lluvias en CDMX; activan Alerta Amarilla y Naranja en la mayoría de las alcaldías hoy 4 de octubre",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTnV3TkJXNmhaQzdnQ1JFY0lCTF9oRE4ydExIYnFYNWs3bHRNR19aMGg3dEJ0cmxmNFJfclFGeDBUMDVtTGhCSzVLNWUtRzVsdS1fY1Z3bWtWOXZBMXg2LWRweDFyQVREc2h3Q2hCWGttZk1oVE5sRjlaZ19wVWFYTi1LWGFwZlNrN1hTVzJ0STVlX2MxZF9nUHkyeGlscUNfMWdwWEs0RzZrMzZBYXVnaXdHMlNoOXlOc2Z1R2JaUWlsU044enVNdXJzYl8xWm1YMGVUMnpUYjRjR2lxZ3hFbERn?oc=5",
-      "source": {
-        "name": "ADN 40",
-        "url": "https://www.adn40.mx/"
-      },
-      "publishedAt": "2026-10-04T07:00:00.000Z",
-      "category": "clima",
-      "productIds": [
-        "naranja"
-      ],
-      "context": "Si el clima altera las cosechas o su distribución, puede cambiar la disponibilidad y los precios."
-    },
-    {
       "id": "e9b33ddd4c777eb16b85",
       "title": "Activan Alerta Naranja y Amarilla en estas alcaldías por fuertes lluvias y caída de GRANIZO hoy en la CDMX",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbjZOeUk5X2dxMWRNVEt2dklWTjBRYjRYeUg0THBzTTBvR2RqUm1kbFNSZmhNb2ozS1dNTURwU1NtYXJsRFd6U3UyNXE5YlB4ZDM3NWUtdW1vNmVKLTZ1XzltVERKSHkxbXFQclJLZ21fMjg0S1gzUy1Fd252YjJnWk90NGFiQTRWVEpKVTdEZ3d4WEFSb3dGMkxpTzlWUUI0MTJ2WGNNUjhXTmNQak94RUxwNm9Nb0ZrcjRwNlRCN1ZFbnZPZjNBMU44ekNMSnJtazFvcm9RWGEwd19DbmR4OFdtMk56Z3RfZXlSSWhJZF9PTXUzX19n?oc=5",
@@ -1636,111 +1565,6 @@
       "publishedAt": "2026-10-03T07:00:00.000Z",
       "category": "clima",
       "productIds": [],
-      "context": "Si el clima altera las cosechas o su distribución, puede cambiar la disponibilidad y los precios."
-    },
-    {
-      "id": "134595864252af6523d4",
-      "title": "Claudia Sheinbaum anuncia acuerdos para aumentar la exportación de aguacate a EEUU: industria genera ingresos por más de 3 mil mdd",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWVh6TER0d243dGMtdVAtOVZ5azlIZTJCSmFHMktEcE8wTkVKamJsenMzT2N3UzdOTWNFUmVxTnhSZ0s5Z21JcTRvMzl3RFRULUx6UTNZZDZEUmNmMzZjb0VaODRjWjRWY2REdzl2TEFxRUFxckhkcTY5QTh0UmRjUERCNEVJaTgxOE1kNnI1SkpZdUR0WGUxRTg2X2RXek04VXFSeTg1SU5vQkZ2VERnRW95Z29ydTl5S21SdkVqTW5XTUJWRjhLWmtYVndrMkY5dVZ2TjctSlZ3azAyNkRyWDgzMExEMmx0QWhj0gGGAkFVX3lxTE1jQ2JhS3VmQzJsYlVPMzQyYW5IaXpaUjAyNWhlWnhmdE1QVUxObEtZejZoR1dOTnZRd1k4ZDY4RVhlcHF2RkxOb2pJa2xKRXdTVzRMZUc0ME41SnloQzdGWjkwTjlpaHdQYS1JVjduLXhLcTBhNDBuRENheTdMSXlpTlNsaEp2cU5DNnN0QkZYUGpyRkhxMXR1RVZSS3lzdUNJSzFsQU9BWFI1Wm5KU2trTlduODB2MEk3bDQzQ0lTU1lESEE1QW5GLUk5cmpOT0s5VDdFektKa1pHZ1dQcTk0YXVKaHlNbHdubkVnOGpxRVNLbHhJamExSjFEQVIyVTJteFRLb3c?oc=5",
-      "source": {
-        "name": "Infobae",
-        "url": "https://www.infobae.com/"
-      },
-      "publishedAt": "2026-10-01T07:00:00.000Z",
-      "category": "mercado",
-      "productIds": [
-        "aguacate"
-      ],
-      "context": "Si cambian la demanda, el comercio o los costos de venta, pueden cambiar los precios al consumidor."
-    },
-    {
-      "id": "9402f8ac63c8eb06f76b",
-      "title": "México asegura futuro del 'oro verde': gobierno y productores de aguacate firman acuerdos para proteger export",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY0hlTnY5ZEVrR3hoLXFUMlFmOVIzd0V3MFVyVXZ5RmhSUTg4ajNGYkRpcEJhX2tQbXRmTkRvT2djYTRodHdvRUlzWERHNmhOQjZMWGdlRzdvYk1pRG04bGNrbDUwQkkxNlJqZXJnUWJiZEhoRG1acmlOLXRDdkVoTjlWaXRTbHVBd3NQRkVCQXpzb3JkUmg4X05VcmdwQW5E0gGgAUFVX3lxTE9JZUdrWlpXMldfOGZTX1JwZjB3UjFhLTJieno2VWl1bEpsRUhpRjFaUHIxZUN4eF8wNFZGeHBfQXozbXJ6cVYxQmJ4MnJjTi1nZlB0T1lEZ0JucnJpTVVSdXFmTXQ0VHc3ZWdpTVRWUEFHeUZGWUU0eWdIRnFaOVMzRTNHaXoyc3piZHhlMjU4MTVDQTZ4N3VmakFCaVU3YXU?oc=5",
-      "source": {
-        "name": "Milenio",
-        "url": "https://www.milenio.com/"
-      },
-      "publishedAt": "2026-10-01T07:00:00.000Z",
-      "category": "mercado",
-      "productIds": [
-        "aguacate"
-      ],
-      "context": "Si cambian la demanda, el comercio o los costos de venta, pueden cambiar los precios al consumidor."
-    },
-    {
-      "id": "907de98d12f6e945cfd9",
-      "title": "SE ACTIVA ALERTA NARANJA Y SE MANTIENE ALERTA AMARILLA POR LLUVIAS FUERTES Y GRANIZO EN DIVERSAS ALCALDÍAS",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNSFZRaG82QWlzM2p2VW56MDNrSnJjX3pGQTdUMUJpcmp6MllHVHFkaUtramdaNXBnZThFY2xQY1ZzR2lrMXV2eTJFUzFmYU1RUWlab2ZRcWw5ejlTWWdXakg1T1FIUFVCZ2NXYnBiWklhSlR0MlI0cllxeFp1OFVIUEdRdXc2WkVGcHNtei1yWkh2d2xUUzhrTlQxZThZdGxXWHR6QllGQWNKNk1TdFR3R3B3TWtjQkR3Ynk2RmVDV0M2MFU5WnRXcVotY2lmeVpkQWZtN253NThfN0FrVVRlNmZrclc2d2NwLVkxc0xHR2NIM2tUOTdF?oc=5",
-      "source": {
-        "name": "CDMX",
-        "url": "https://www.proteccioncivil.cdmx.gob.mx/"
-      },
-      "publishedAt": "2026-09-30T07:00:00.000Z",
-      "category": "clima",
-      "productIds": [
-        "naranja"
-      ],
-      "context": "Si el clima altera las cosechas o su distribución, puede cambiar la disponibilidad y los precios."
-    },
-    {
-      "id": "995a11f03db709339c23",
-      "title": "¡Lluvias golpean CDMX! Activan Alerta Naranja por fuertes precipitaciones HOY 30 de septiembre",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQjRZUEJhdlFnckp2NzdWYTI2dlNPOXpkeFk4TDdRNWRRblZmc2tnMGhlT3ZJWHExQmI0QUxralU2alhfQlpDaVhISXBBZW0wSXo5SUdIb2pZNzVwX3VuS3NZVnFlbjJTNDRWeUstRkExZ05mRnNaQ3J1MktGTlphbGVuMTR2bkU4MEVmYUFvcmE5Z2w3U0JGT25jWdIBoAFBVV95cUxQdGRXalY3Y29nc3laMGlPbUUybERxWDRZekE1Q3g0UWtBSkZCa2pOMk0zbHdJaS1SRnNEand0dUFsX1BKMnNVSFJxOE9NN2dNTnhNVnFHUlUzdEF1OUwzN2ZmaTVkRHFncEthdTNuSFN2LV95QXZuanE3MFZKZzZuOTNmUjUtaFdud2NmV3YyMUtBcDF3aWd4LVZuLS1JZm5K?oc=5",
-      "source": {
-        "name": "PostaMx",
-        "url": "https://www.posta.com.mx/"
-      },
-      "publishedAt": "2026-09-30T07:00:00.000Z",
-      "category": "clima",
-      "productIds": [
-        "naranja"
-      ],
-      "context": "Si el clima altera las cosechas o su distribución, puede cambiar la disponibilidad y los precios."
-    },
-    {
-      "id": "a10a9969e410965e339d",
-      "title": "Aguacate mexicano: se abre una ventana clave mientras Perú y California bajan su oferta",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRG9VYjFweWpTbUhjV3F1NDdyNjhRbUZtcS1YQTcweEVwcUxtMHpBVEpmUUNKZmVmRjdGMm5VWlI4UFRuY003YVFfVkFvN1E1LThIck1SQThqSG9sQzBWdDRRWFhkMzhXdjRDSktzOEpJaU9jSmRXazlWZ0pZemFTMEl5VDNyamYyV1czV3dvdjRCU01YM1lhYnVkS005TlhsbF9R?oc=5",
-      "source": {
-        "name": "AgroLatam",
-        "url": "https://www.agrolatam.com/"
-      },
-      "publishedAt": "2026-09-30T07:00:00.000Z",
-      "category": "mercado",
-      "productIds": [
-        "aguacate"
-      ],
-      "context": "Si cambian la demanda, el comercio o los costos de venta, pueden cambiar los precios al consumidor."
-    },
-    {
-      "id": "b2e9bccd85f725ce3104",
-      "title": "Blindan al aguacate del narco en México: Semarnat prohíbe exportación si fue cultivado en huertas deforestadas",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSGFiVDhzX0liNF9GN3pXQjY2bUhhVXBnQk55THl0R0w1Uk9nNUx4U2NjR053ZGJEV2hkZ2Mxd21rT2tycV9UdDF2ZWVIV2JwaTlKWDRrZ0Q3bUlzQzhlMTRXVEdwWEtwQWloQkdWZ2hFZHVXZ1VXTW1KREhDcG1fOTZ5SFlPa1Z1c1Vzcy11cFhaVmstX1poaVNFemZhU19na2Vjbk43b05qcVNEYTZma3pWRDk3TjAzR3ZMWGYwRzFEUk5rcGlFVVk2UlVaTnB1Nk9HY0NHcTFGOXhLVjVXWEdhRFRWSnfSAYICQVVfeXFMTUtTaE1KRWdlb3hHNGRRaTE2Z09yWjAwd2s0R2ZhU3h4RVpVaWl3UEtkYWRJV2xXUUhYX0FXTjZmQXhhWHo3azEyM25oYmlkaVdiZ1IyemxiT1YtdUQ4Zm5PdFpZQnlEZno4VTN5Qm95OEM1QUNqMWtmcmdIX2hrUWhRV1pLWnpudHl3d1phTkFQb0NlYkJVb3MzMU5BZGd5MkFvY180dlFvU0NxdXlJYTFmaVdTZUd0THNkZWxObFRNZXJEVUVwOGZJTXJxZG1LV3NKQ1hIWkFwdGhsUWoybHlNTmxfR1NBdElqZ2JJT01pSmgyM0ZPVW9KU3hWN1Y1bUt3?oc=5",
-      "source": {
-        "name": "Infobae",
-        "url": "https://www.infobae.com/"
-      },
-      "publishedAt": "2026-09-30T07:00:00.000Z",
-      "category": "mercado",
-      "productIds": [
-        "aguacate"
-      ],
-      "context": "Si cambian la demanda, el comercio o los costos de venta, pueden cambiar los precios al consumidor."
-    },
-    {
-      "id": "daf368ec096ae4c8f792",
-      "title": "Activan Alerta Naranja por Fuertes Lluvias y Caída de Granizo en 5 Alcaldías de la CDMX",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONk5NZGd6UkxaaTlSUFN1OVFab1VQN3NZTkY0eTdYWnRLOU1MeC1LUW1wamtMRFB1cncyVHZCandMaUswZlB3MWJBS2JUckNmOXREbEpnekJjQm1SOFk4ODBDb2JPVnM3ZkRKcHRtU1ExZ3NPdmE3MUIwMTFSQk5YVmExVWg2NWMxSTJ2WUtiZW1Dc05aZjBOVTlsZ2FYMFR2MzRWempoZGxwM1puVXhJTThPMmQ2TXoyZEx5N2Z3b3Z2Q0QzMUZxaXhidw?oc=5",
-      "source": {
-        "name": "N+",
-        "url": "https://www.nmas.com.mx/"
-      },
-      "publishedAt": "2026-09-30T07:00:00.000Z",
-      "category": "clima",
-      "productIds": [
-        "naranja"
-      ],
       "context": "Si el clima altera las cosechas o su distribución, puede cambiar la disponibilidad y los precios."
     }
   ]

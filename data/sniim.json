@@ -1,9 +1,9 @@
 {
-  "fetchedAt": "2026-11-14T06:55:53.306Z",
-  "url": "https://www.economia-sniim.gob.mx/nuevo/Consultas/MercadosNacionales/PreciosDeMercado/Agricolas/ResultadosConsultaFechaFrutasYHortalizas.aspx?fechaInicio=01%2F11%2F2026&fechaFinal=14%2F11%2F2026&ProductoId=-1&OrigenId=-1&DestinoId=100&PreciosPorId=2&RegistrosPorPagina=5000",
+  "fetchedAt": "2026-11-16T15:21:14.249Z",
+  "url": "https://www.economia-sniim.gob.mx/nuevo/Consultas/MercadosNacionales/PreciosDeMercado/Agricolas/ResultadosConsultaFechaFrutasYHortalizas.aspx?fechaInicio=03%2F11%2F2026&fechaFinal=16%2F11%2F2026&ProductoId=-1&OrigenId=-1&DestinoId=100&PreciosPorId=2&RegistrosPorPagina=5000",
   "window": {
-    "from": "2026-11-01",
-    "to": "2026-11-14"
+    "from": "2026-11-03",
+    "to": "2026-11-16"
   },
   "dataDate": "2026-11-13",
   "products": {

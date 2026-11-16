@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-14T06:55:54.105Z",
+  "generatedAt": "2026-11-16T15:21:15.666Z",
   "sources": {
     "sniim": {
       "id": "sniim",
@@ -9,7 +9,7 @@
       "kind": "mayoreo",
       "cadence": "diaria",
       "dataDate": "2026-11-13",
-      "fetchedAt": "2026-11-14T06:55:53.306Z",
+      "fetchedAt": "2026-11-16T15:21:14.249Z",
       "status": "ok",
       "error": null
     },
